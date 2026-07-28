@@ -2,24 +2,240 @@
 
 {% block extrahead %}
   {{ super() }}
-  {% set title = config.site_name %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = page.meta.title %}
+  {% elif page and page.title %}
+    {% set title = page.title %}
+  {% else %}
+    {% set title = config.site_name %}
+  {% endif %}
   {% set description = config.site_description or title %}
-  {% set url = page.canonical_url or config.site_url %}
+  {% set url = page.canonical_url if page and page.canonical_url else config.site_url %}
   {% set image = config.site_url ~ "illustrations/og-preview.jpg" %}
+  {% set cover = config.site_url ~ "illustrations/cover.webp" %}
+  {% set author_name = "Папа" %}
+  {% set lang = "ru" %}
+  {% set published = "2026-07-28T00:00:00+03:00" %}
+  {% set is_home = page.is_homepage if page else false %}
+  {% set src = page.file.src_uri if page and page.file else "" %}
+  {% if src.startswith("part-") %}
+    {% set part_num = src.split("-")[1] | int %}
+  {% else %}
+    {% set part_num = none %}
+  {% endif %}
+
   <meta name="description" content="{{ description }}">
-  <meta property="og:type" content="website">
+  <meta name="author" content="{{ author_name }}">
+  <meta name="keywords" content="детская книга, папа и дочка, христианское воспитание, вечернее чтение, Библия для детей">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ url }}">
+
+  {# Open Graph #}
+  <meta property="og:type" content="{% if is_home %}book{% else %}article{% endif %}">
   <meta property="og:locale" content="ru_RU">
-  <meta property="og:site_name" content="{{ title }}">
+  <meta property="og:site_name" content="{{ config.site_name }}">
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="{{ url }}">
   <meta property="og:image" content="{{ image }}">
+  <meta property="og:image:secure_url" content="{{ image }}">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="{{ title }}">
+  <meta property="og:image:alt" content="{{ config.site_name }}">
+  <meta property="article:author" content="{{ author_name }}">
+  <meta property="article:published_time" content="{{ published }}">
+  <meta property="article:modified_time" content="{{ published }}">
+  <meta property="article:section" content="Детская книга">
+  <meta property="book:author" content="{{ author_name }}">
+  <meta property="book:tag" content="семья">
+  <meta property="book:tag" content="вера">
+  <meta property="book:tag" content="воспитание">
+
+  {# Dublin Core #}
+  <meta name="DC.title" content="{{ title }}">
+  <meta name="DC.creator" content="{{ author_name }}">
+  <meta name="DC.description" content="{{ description }}">
+  <meta name="DC.language" content="ru">
+  <meta name="DC.type" content="Text">
+  <meta name="DC.format" content="text/html">
+  <meta name="DC.date" content="2026-07-28">
+  <meta name="DC.publisher" content="{{ author_name }}">
+  <meta name="DC.rights" content="© {{ author_name }}">
+
+  {# Telegram Instant View #}
+  <meta property="tg:site_verification" content="g7j8/rPFXfhyrq5q0QQV7EsYWv4=">
+
+  {# Twitter / X #}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ title }}">
   <meta name="twitter:description" content="{{ description }}">
   <meta name="twitter:image" content="{{ image }}">
+  <meta name="twitter:image:alt" content="{{ config.site_name }}">
+
+  {# Schema.org JSON-LD #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": {{ (config.site_url ~ "#website") | tojson }},
+        "url": {{ config.site_url | tojson }},
+        "name": {{ config.site_name | tojson }},
+        "description": {{ description | tojson }},
+        "inLanguage": "ru",
+        "publisher": { "@id": {{ (config.site_url ~ "#author") | tojson }} }
+      },
+      {
+        "@type": "Person",
+        "@id": {{ (config.site_url ~ "#author") | tojson }},
+        "name": {{ author_name | tojson }},
+        "description": "Автор книги для чтения с дочкой"
+      },
+      {
+        "@type": "Book",
+        "@id": {{ (config.site_url ~ "#book") | tojson }},
+        "name": {{ config.site_name | tojson }},
+        "description": {{ (config.site_description or description) | tojson }},
+        "url": {{ config.site_url | tojson }},
+        "inLanguage": "ru",
+        "bookFormat": "https://schema.org/EBook",
+        "genre": ["детская литература", "христианское воспитание", "семейное чтение"],
+        "isFamilyFriendly": true,
+        "audience": {
+          "@type": "PeopleAudience",
+          "suggestedMinAge": 5,
+          "suggestedMaxAge": 8,
+          "audienceType": "дети и родители"
+        },
+        "author": { "@id": {{ (config.site_url ~ "#author") | tojson }} },
+        "publisher": { "@id": {{ (config.site_url ~ "#author") | tojson }} },
+        "datePublished": "2026-07-28",
+        "image": [
+          {
+            "@type": "ImageObject",
+            "url": {{ image | tojson }},
+            "width": 1200,
+            "height": 630,
+            "caption": {{ config.site_name | tojson }}
+          },
+          {
+            "@type": "ImageObject",
+            "url": {{ cover | tojson }},
+            "caption": "Обложка книги"
+          }
+        ],
+        "workExample": {
+          "@type": "Book",
+          "bookFormat": "https://schema.org/EBook",
+          "url": {{ config.site_url | tojson }},
+          "inLanguage": "ru"
+        }
+      }{% if is_home %},
+      {
+        "@type": "WebPage",
+        "@id": {{ (url ~ "#webpage") | tojson }},
+        "url": {{ url | tojson }},
+        "name": {{ title | tojson }},
+        "description": {{ description | tojson }},
+        "isPartOf": { "@id": {{ (config.site_url ~ "#website") | tojson }} },
+        "about": { "@id": {{ (config.site_url ~ "#book") | tojson }} },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": {{ image | tojson }}
+        },
+        "inLanguage": "ru",
+        "datePublished": {{ published | tojson }},
+        "author": { "@id": {{ (config.site_url ~ "#author") | tojson }} }
+      }{% elif part_num is not none %},
+      {
+        "@type": "Chapter",
+        "@id": {{ (url ~ "#chapter") | tojson }},
+        "url": {{ url | tojson }},
+        "name": {{ title | tojson }},
+        "position": {{ part_num }},
+        "isPartOf": { "@id": {{ (config.site_url ~ "#book") | tojson }} },
+        "author": { "@id": {{ (config.site_url ~ "#author") | tojson }} },
+        "inLanguage": "ru",
+        "datePublished": {{ published | tojson }},
+        "image": {{ image | tojson }}
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": {{ (url ~ "#breadcrumb") | tojson }},
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Начало",
+            "item": {{ config.site_url | tojson }}
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": {{ title | tojson }},
+            "item": {{ url | tojson }}
+          }
+        ]
+      }{% else %},
+      {
+        "@type": "WebPage",
+        "@id": {{ (url ~ "#webpage") | tojson }},
+        "url": {{ url | tojson }},
+        "name": {{ title | tojson }},
+        "isPartOf": { "@id": {{ (config.site_url ~ "#website") | tojson }} },
+        "about": { "@id": {{ (config.site_url ~ "#book") | tojson }} },
+        "inLanguage": "ru"
+      }{% endif %}
+    ]
+  }
+  </script>
+{% endblock %}
+
+{% block container %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = page.meta.title %}
+  {% elif page and page.title %}
+    {% set title = page.title %}
+  {% else %}
+    {% set title = config.site_name %}
+  {% endif %}
+  {% set url = page.canonical_url if page and page.canonical_url else config.site_url %}
+  {% set image = config.site_url ~ "illustrations/og-preview.jpg" %}
+  {% set author_name = "Папа" %}
+  {% set is_home = page.is_homepage if page else false %}
+  {% set src = page.file.src_uri if page and page.file else "" %}
+  {% if src.startswith("part-") %}
+    {% set part_num = src.split("-")[1] | int %}
+  {% else %}
+    {% set part_num = none %}
+  {% endif %}
+
+  <div class="md-content" data-md-component="content">
+    <div class="article"
+         {% if is_home %}
+           itemscope itemtype="https://schema.org/Book"
+         {% elif part_num is not none %}
+           itemscope itemtype="https://schema.org/Chapter"
+         {% else %}
+           itemscope itemtype="https://schema.org/WebPage"
+         {% endif %}>
+      <h1 class="iv-page-title" itemprop="name">{{ title }}</h1>
+      {% if part_num is not none %}
+        <meta itemprop="position" content="{{ part_num }}">
+        <link itemprop="isPartOf" href="{{ config.site_url }}#book">
+      {% endif %}
+      <meta itemprop="inLanguage" content="ru">
+      <meta itemprop="author" content="{{ author_name }}">
+      <link itemprop="url" href="{{ url }}">
+      <link itemprop="image" href="{{ image }}">
+      <article class="md-content__inner md-typeset article__content"
+               {% if part_num is not none %}itemprop="text"{% endif %}>
+        {% block content %}
+          {% include "partials/content.html" %}
+        {% endblock %}
+      </article>
+    </div>
+  </div>
 {% endblock %}
