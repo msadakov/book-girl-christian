@@ -197,11 +197,11 @@
   }
 
   .md-content__inner {
-    margin: 0 1.15rem 1.75rem;
+    margin: 0 0.575rem 1.75rem;
   }
 
   .md-typeset {
-    padding-inline: 0.15rem;
+    padding-inline: 0.075rem;
   }
 
   /* Larger tap targets in drawers */
@@ -226,8 +226,8 @@
   }
 
   .md-content__inner {
-    margin-left: 1.35rem;
-    margin-right: 1.35rem;
+    margin-left: 0.675rem;
+    margin-right: 0.675rem;
   }
 
   .md-header__title {
