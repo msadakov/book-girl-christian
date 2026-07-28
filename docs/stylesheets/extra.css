@@ -191,13 +191,17 @@
     border-radius: 0.35rem;
   }
 
-  /* Comfortable side padding on narrow screens */
-  .md-content__inner {
-    margin: 0 0.2rem 1.5rem;
-  }
-
+  /* Side margins so text doesn't stick to screen edges */
   .md-main__inner {
     margin-top: 0.5rem;
+  }
+
+  .md-content__inner {
+    margin: 0 1.15rem 1.75rem;
+  }
+
+  .md-typeset {
+    padding-inline: 0.15rem;
   }
 
   /* Larger tap targets in drawers */
@@ -219,6 +223,11 @@
 @media screen and (max-width: 30em) {
   .md-typeset {
     font-size: 1.08rem;
+  }
+
+  .md-content__inner {
+    margin-left: 1.35rem;
+    margin-right: 1.35rem;
   }
 
   .md-header__title {
