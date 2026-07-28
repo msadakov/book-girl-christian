@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% set title = config.site_name %}
+  {% set description = config.site_description or title %}
+  {% set url = page.canonical_url or config.site_url %}
+  {% set image = config.site_url ~ "illustrations/og-preview.jpg" %}
+  <meta name="description" content="{{ description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:site_name" content="{{ title }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ url }}">
+  <meta property="og:image" content="{{ image }}">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ title }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="{{ image }}">
+{% endblock %}
