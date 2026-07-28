@@ -9,3 +9,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+full_book_backup.md
+
+# Full-size illustration sources (regenerate web assets via scripts/optimize_images.py)
+originals/illustrations/
