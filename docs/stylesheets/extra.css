@@ -1,6 +1,5 @@
 /* ——— Night-first reading palette ——— */
 
-/* Warm dark: soft cream text on brown-black, no pure white */
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: #16130f;
   --md-default-bg-color--light: #1e1a15;
@@ -21,7 +20,6 @@
   --md-footer-bg-color--dark: #0a0908;
 }
 
-/* Soft paper light mode for daytime */
 [data-md-color-scheme="default"] {
   --md-default-bg-color: #f3efe6;
   --md-default-bg-color--light: #ebe6db;
@@ -37,7 +35,6 @@
   --md-typeset-color: #2c261e;
 }
 
-/* Dim chrome so the page, not the UI, glows */
 .md-header {
   background-color: var(--md-default-bg-color--light);
   color: var(--md-default-fg-color);
@@ -59,25 +56,17 @@
 
 /* ——— Layout ——— */
 
-.md-sidebar--primary {
-  display: none;
-}
-
-.md-header__button.md-icon[for="__drawer"],
-label.md-header__button[for="__drawer"] {
-  display: none;
-}
-
 .md-grid {
   max-width: 64rem;
 }
 
-/* Larger type + airy leading for low light */
 .md-typeset {
   font-size: 1.125rem;
   line-height: 1.85;
   letter-spacing: 0.015em;
   font-variant-numeric: oldstyle-nums;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 .md-typeset h1 {
@@ -112,7 +101,6 @@ label.md-header__button[for="__drawer"] {
   color: var(--md-default-fg-color--light);
 }
 
-/* Illustrations: soften glare in dark mode */
 .md-typeset img {
   display: block;
   max-width: min(100%, 34rem);
@@ -128,12 +116,18 @@ label.md-header__button[for="__drawer"] {
   box-shadow: 0 0.4rem 1.2rem rgba(0, 0, 0, 0.35);
 }
 
-[data-md-color-scheme="slate"] .md-typeset img:hover {
+[data-md-color-scheme="slate"] .md-typeset img:hover,
+[data-md-color-scheme="slate"] .md-typeset img:active {
   opacity: 1;
   filter: brightness(0.96) saturate(0.96);
 }
 
-/* Soften TOC */
+/* Primary nav: parts of the book */
+.md-nav--primary .md-nav__link {
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
 .md-sidebar--secondary {
   width: 14.5rem;
 }
@@ -153,27 +147,85 @@ label.md-header__button[for="__drawer"] {
   background-color: var(--md-default-bg-color--lighter);
 }
 
+/* Prev / next between parts */
+.md-footer__link {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+.md-footer__title {
+  font-size: 0.85rem;
+}
+
 @media screen and (min-width: 76.25em) {
   .md-content {
     margin-inline: auto;
   }
-
-  .md-sidebar--secondary {
-    right: max(0.5rem, calc((100% - 64rem) / 2 - 14.5rem));
-  }
 }
 
+/* ——— Phone reading ——— */
 @media screen and (max-width: 76.1875em) {
   .md-typeset {
-    font-size: 1.08rem;
+    font-size: 1.12rem;
+    line-height: 1.8;
+  }
+
+  .md-typeset h1 {
+    font-size: 1.55rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.25rem;
+    margin-top: 2.2em;
+    scroll-margin-top: 3.5rem;
+  }
+
+  .md-typeset p,
+  .md-typeset li {
+    max-width: none;
   }
 
   .md-typeset img {
     max-width: 100%;
+    margin: 1.1rem auto 1.35rem;
+    border-radius: 0.35rem;
+  }
+
+  /* Comfortable side padding on narrow screens */
+  .md-content__inner {
+    margin: 0 0.2rem 1.5rem;
+  }
+
+  .md-main__inner {
+    margin-top: 0.5rem;
+  }
+
+  /* Larger tap targets in drawers */
+  .md-nav__link {
+    min-height: 2.4rem;
+    padding-top: 0.55rem;
+    padding-bottom: 0.55rem;
+  }
+
+  .md-footer__link {
+    width: 100%;
+  }
+
+  .md-footer__title .md-ellipsis {
+    white-space: normal;
   }
 }
 
-/* Prefer dim when OS is in dark mode too (extra comfort) */
+@media screen and (max-width: 30em) {
+  .md-typeset {
+    font-size: 1.08rem;
+  }
+
+  .md-header__title {
+    font-size: 0.78rem;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
