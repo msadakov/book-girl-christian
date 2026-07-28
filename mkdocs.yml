@@ -1,0 +1,52 @@
+site_name: "Моя чудесная девочка: Папина книга о самом главном"
+site_description: "Книга для папы и дочки — читать по одной главе за вечер"
+# CI подставит URL GitHub Pages при деплое
+site_url: http://127.0.0.1:8000/
+
+theme:
+  name: material
+  language: ru
+  font:
+    text: Literata
+    code: JetBrains Mono
+
+  features:
+    - navigation.top
+    - navigation.instant
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+    - header.autohide
+
+  # Тёмная тема первой — книга чаще читается на ночь
+  palette:
+    - scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+
+    - scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 2
+      title: Главы
+
+plugins:
+  - search
