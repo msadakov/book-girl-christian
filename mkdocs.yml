@@ -5,6 +5,7 @@ site_url: http://127.0.0.1:8000/
 
 theme:
   name: material
+  custom_dir: overrides
   language: ru
   font:
     text: Literata
@@ -12,6 +13,7 @@ theme:
 
   features:
     - navigation.top
+    - navigation.footer
     - navigation.instant
     - toc.follow
     - search.suggest
@@ -34,6 +36,24 @@ theme:
       toggle:
         icon: material/weather-night
         name: Тёмная тема
+
+nav:
+  - Начало: index.md
+  - "Часть 1. Вера и Бог": part-01-vera.md
+  - "Часть 2. Тело и красота": part-02-telo.md
+  - "Часть 3. Семья и дом": part-03-semya.md
+  - "Часть 4. Друзья и школа": part-04-druzya.md
+  - "Часть 5. Экраны и сердце": part-05-serdtse.md
+  - "Часть 6. Библейские истории": part-06-bibliya.md
+  - "Часть 7. Привычки сердца": part-07-privychki.md
+  - "Часть 8. Безопасность и люди": part-08-bezopasnost.md
+  - "Часть 9. Быт и осторожность": part-09-byt.md
+  - "Часть 10. Церковь": part-10-tserkov.md
+  - "Часть 11. Расти в мудрости": part-11-mudrost.md
+  - "Часть 12. Близость и границы": part-12-granitsy.md
+  - "Часть 13. Доброта дома": part-13-dom.md
+  - "Часть 14. Каждый день": part-14-den.md
+  - "Часть 15. Вместе дальше": part-15-vmeste.md
 
 extra_css:
   - stylesheets/extra.css
