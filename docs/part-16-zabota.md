@@ -285,7 +285,7 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-**Навигация по частям:**
-
-[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-15-vmeste/)
-_Часть 15. Вместе дальше_
+<div class="part-nav" markdown="0">
+<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-15-vmeste/">&lt;- Предыдущая часть</a></p>
+<p align="center"><em>Часть 15. Вместе дальше</em></p>
+</div>

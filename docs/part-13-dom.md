@@ -369,7 +369,7 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-**Навигация по частям:**
-
-[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-12-granitsy/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-14-den/)
-_Часть 12. Близость и границы | Часть 14. Каждый день_
+<div class="part-nav" markdown="0">
+<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-12-granitsy/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-14-den/">Следующая часть -&gt;</a></p>
+<p align="center"><em>Часть 12. Близость и границы | Часть 14. Каждый день</em></p>
+</div>

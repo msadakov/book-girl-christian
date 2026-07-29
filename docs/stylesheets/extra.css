@@ -162,6 +162,18 @@
   background-color: var(--md-default-bg-color--lighter);
 }
 
+/* Manual part navigation at the end of each part */
+.part-nav {
+  margin: 1.75rem 0 0.5rem;
+  text-align: center;
+}
+
+.part-nav p {
+  max-width: none;
+  margin: 0.35rem 0;
+  text-align: center;
+}
+
 /* Prev / next between parts */
 .md-footer__link {
   padding-top: 1.25rem;

@@ -243,7 +243,7 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-**Навигация по частям:**
-
-[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-02-telo/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-04-druzya/)
-_Часть 2. Тело и красота | Часть 4. Друзья и школа_
+<div class="part-nav" markdown="0">
+<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-02-telo/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-04-druzya/">Следующая часть -&gt;</a></p>
+<p align="center"><em>Часть 2. Тело и красота | Часть 4. Друзья и школа</em></p>
+</div>

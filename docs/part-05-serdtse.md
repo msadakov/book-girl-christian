@@ -289,7 +289,7 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-**Навигация по частям:**
-
-[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-04-druzya/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-06-bibliya/)
-_Часть 4. Друзья и школа | Часть 6. Библейские истории_
+<div class="part-nav" markdown="0">
+<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-04-druzya/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-06-bibliya/">Следующая часть -&gt;</a></p>
+<p align="center"><em>Часть 4. Друзья и школа | Часть 6. Библейские истории</em></p>
+</div>
