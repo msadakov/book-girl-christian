@@ -17,11 +17,11 @@ title: "Часть 15. Вместе дальше"
 - [Глава 174. Как быть с угощениями от других людей](#ch-174)
 - [Глава 175. Семейные традиции](#ch-175)
 
-![Родители устали](illustrations/parents-tired.webp){ loading=lazy }
-
 <a id="ch-164" name="ch-164"></a>
 
 ## Глава 164. Когда мама или папа устали
+
+![Родители устали](illustrations/parents-tired.webp){ loading=lazy }
 
 *(Папа садится рядом и говорит мягче обычного)*
 
@@ -44,11 +44,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Не перебивать](illustrations/not-interrupting.webp){ loading=lazy }
-
 <a id="ch-165" name="ch-165"></a>
 
 ## Глава 165. Как не перебивать
+
+![Не перебивать](illustrations/not-interrupting.webp){ loading=lazy }
 
 *(Папа поднимает палец: «секундочку», но улыбается)*
 
@@ -71,11 +71,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Хочу внимания](illustrations/wants-attention-now.webp){ loading=lazy }
-
 <a id="ch-166" name="ch-166"></a>
 
 ## Глава 166. Когда хочется внимания прямо сейчас
+
+![Хочу внимания](illustrations/wants-attention-now.webp){ loading=lazy }
 
 *(Папа прикладывает руку к сердцу)*
 
@@ -98,11 +98,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![В гостях правила](illustrations/guest-rules.webp){ loading=lazy }
-
 <a id="ch-167" name="ch-167"></a>
 
 ## Глава 167. В гостях другие правила
+
+![В гостях правила](illustrations/guest-rules.webp){ loading=lazy }
 
 *(Папа будто стучит в чужую дверь)*
 
@@ -125,11 +125,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Плохой сон](illustrations/bad-dream.webp){ loading=lazy }
-
 <a id="ch-168" name="ch-168"></a>
 
 ## Глава 168. Когда приснился плохой сон
+
+![Плохой сон](illustrations/bad-dream.webp){ loading=lazy }
 
 *(Папа говорит тихо, как ночью)*
 
@@ -152,11 +152,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Одежда по погоде](illustrations/weather-clothes.webp){ loading=lazy }
-
 <a id="ch-169" name="ch-169"></a>
 
 ## Глава 169. Одежда по погоде
+
+![Одежда по погоде](illustrations/weather-clothes.webp){ loading=lazy }
 
 *(Папа показывает шапку, сапожки и лёгкое платье)*
 
@@ -179,11 +179,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Смеются над ошибкой](illustrations/laughed-at-mistake.webp){ loading=lazy }
-
 <a id="ch-170" name="ch-170"></a>
 
 ## Глава 170. Когда кто-то смеётся над ошибкой
+
+![Смеются над ошибкой](illustrations/laughed-at-mistake.webp){ loading=lazy }
 
 *(Папа берёт дочку за руку)*
 
@@ -206,11 +206,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![День рождения](illustrations/birthday-gratitude.webp){ loading=lazy }
-
 <a id="ch-171" name="ch-171"></a>
 
 ## Глава 171. День рождения без капризов
+
+![День рождения](illustrations/birthday-gratitude.webp){ loading=lazy }
 
 *(Папа будто зажигает свечку на торте)*
 
@@ -233,11 +233,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Ждать разговор](illustrations/wait-adult-conversation.webp){ loading=lazy }
-
 <a id="ch-172" name="ch-172"></a>
 
 ## Глава 172. Когда нужно подождать взрослого разговора
+
+![Ждать разговор](illustrations/wait-adult-conversation.webp){ loading=lazy }
 
 *(Папа показывает ладонью маленькую паузу)*
 
@@ -260,11 +260,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Опасная вещь](illustrations/dangerous-floor-object.webp){ loading=lazy }
-
 <a id="ch-173" name="ch-173"></a>
 
 ## Глава 173. Если увидела опасную вещь на полу
+
+![Опасная вещь](illustrations/dangerous-floor-object.webp){ loading=lazy }
 
 *(Папа показывает: не трогать, позвать)*
 
@@ -287,11 +287,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Угощение спросить](illustrations/treats-ask-parents.webp){ loading=lazy }
-
 <a id="ch-174" name="ch-174"></a>
 
 ## Глава 174. Как быть с угощениями от других людей
+
+![Угощение спросить](illustrations/treats-ask-parents.webp){ loading=lazy }
 
 *(Папа показывает конфетку на ладони, но ждёт)*
 
@@ -314,11 +314,11 @@ title: "Часть 15. Вместе дальше"
 
 ---
 
-![Семейные традиции](illustrations/family-traditions.webp){ loading=lazy }
-
 <a id="ch-175" name="ch-175"></a>
 
 ## Глава 175. Семейные традиции
+
+![Семейные традиции](illustrations/family-traditions.webp){ loading=lazy }
 
 *(Папа обводит рукой всех за столом)*
 

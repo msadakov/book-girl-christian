@@ -21,6 +21,8 @@ title: "Часть 14. Каждый день"
 
 ## Глава 152. Когда планы поменялись
 
+![Планы поменялись](illustrations/changed-plans.webp){ loading=lazy }
+
 *(Папа переворачивает воображаемый лист календаря)*
 
 Иногда мы собирались гулять — а пошёл дождь. Ждали гостей — а они заболели. Хотели в парк — а машина не завелась. Сердце сразу говорит: «Но я же ждала!»
@@ -42,11 +44,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Подарок](illustrations/receive-gift.webp){ loading=lazy }
-
 <a id="ch-153" name="ch-153"></a>
 
 ## Глава 153. Как принимать подарки
+
+![Подарок](illustrations/receive-gift.webp){ loading=lazy }
 
 *(Папа протягивает воображаемую коробочку)*
 
@@ -69,11 +71,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Сказали нет](illustrations/hearing-no.webp){ loading=lazy }
-
 <a id="ch-154" name="ch-154"></a>
 
 ## Глава 154. Когда тебе сказали «нет»
+
+![Сказали нет](illustrations/hearing-no.webp){ loading=lazy }
 
 *(Папа мягко качает головой и держит дочку за руку)*
 
@@ -96,11 +98,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Двери и лифт](illustrations/doors-windows-elevator.webp){ loading=lazy }
-
 <a id="ch-155" name="ch-155"></a>
 
 ## Глава 155. Двери, окна и лифт
+
+![Двери и лифт](illustrations/doors-windows-elevator.webp){ loading=lazy }
 
 *(Папа показывает: стоп, рука взрослого, ждать)*
 
@@ -123,11 +125,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Дорога](illustrations/crossing-road.webp){ loading=lazy }
-
 <a id="ch-156" name="ch-156"></a>
 
 ## Глава 156. Переход через дорогу
+
+![Дорога](illustrations/crossing-road.webp){ loading=lazy }
 
 *(Папа крепко берёт дочкину руку)*
 
@@ -150,11 +152,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Слишком шумно](illustrations/too-loud.webp){ loading=lazy }
-
 <a id="ch-157" name="ch-157"></a>
 
 ## Глава 157. Когда в комнате слишком шумно
+
+![Слишком шумно](illustrations/too-loud.webp){ loading=lazy }
 
 *(Папа прикрывает уши ладонями и улыбается)*
 
@@ -177,11 +179,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Фантазия и правда](illustrations/imagination-truth.webp){ loading=lazy }
-
 <a id="ch-158" name="ch-158"></a>
 
 ## Глава 158. Фантазия и правда
+
+![Фантазия и правда](illustrations/imagination-truth.webp){ loading=lazy }
 
 *(Папа надевает воображаемую корону и смеётся)*
 
@@ -204,11 +206,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Не хочу фото](illustrations/photo-boundary.webp){ loading=lazy }
-
 <a id="ch-159" name="ch-159"></a>
 
 ## Глава 159. Фото и видео: можно попросить не снимать
+
+![Не хочу фото](illustrations/photo-boundary.webp){ loading=lazy }
 
 *(Папа показывает телефон и опускает его вниз)*
 
@@ -231,11 +233,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Живое бережём](illustrations/gentle-living-things.webp){ loading=lazy }
-
 <a id="ch-160" name="ch-160"></a>
 
 ## Глава 160. Бережность к животным и растениям
+
+![Живое бережём](illustrations/gentle-living-things.webp){ loading=lazy }
 
 *(Папа показывает мягкую ладошку)*
 
@@ -258,11 +260,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Болею дома](illustrations/sick-at-home.webp){ loading=lazy }
-
 <a id="ch-161" name="ch-161"></a>
 
 ## Глава 161. Когда болеешь дома
+
+![Болею дома](illustrations/sick-at-home.webp){ loading=lazy }
 
 *(Папа поправляет одеяло)*
 
@@ -285,11 +287,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Утро без войны](illustrations/morning-peace.webp){ loading=lazy }
-
 <a id="ch-162" name="ch-162"></a>
 
 ## Глава 162. Утренние сборы без войны
+
+![Утро без войны](illustrations/morning-peace.webp){ loading=lazy }
 
 *(Папа показывает носочки, расчёску и курточку)*
 
@@ -312,11 +314,11 @@ title: "Часть 14. Каждый день"
 
 ---
 
-![Купи](illustrations/store-want.webp){ loading=lazy }
-
 <a id="ch-163" name="ch-163"></a>
 
 ## Глава 163. «Купи!» и витрины в магазине
+
+![Купи](illustrations/store-want.webp){ loading=lazy }
 
 *(Папа показывает на воображаемую полку и потом на сердце)*
 

@@ -19,6 +19,8 @@ title: "Часть 2. Тело и красота"
 
 ## Глава 13. Твоё тело — Божий подарок
 
+![Тело и красота](illustrations/body-beauty.webp){ loading=lazy }
+
 *(Папа говорит бережно)*
 
 У тебя есть глаза, чтобы видеть добро. Уши — чтобы слышать. Ноги — чтобы бегать. Руки — чтобы обнимать и помогать. Животик — чтобы чувствовать сытость. Сердце — чтобы любить.
@@ -38,11 +40,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Чистка зубов](illustrations/teeth.webp){ loading=lazy }
-
 <a id="ch-14" name="ch-14"></a>
 
 ## Глава 14. Чистим зубки — как маленькие солдаты
+
+![Чистка зубов](illustrations/teeth.webp){ loading=lazy }
 
 *(Папа изображает весёлую чистку)*
 
@@ -63,11 +65,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Волосы](illustrations/hair.webp){ loading=lazy }
-
 <a id="ch-15" name="ch-15"></a>
 
 ## Глава 15. Волосы: нежность и порядок
+
+![Волосы](illustrations/hair.webp){ loading=lazy }
 
 *(Папа аккуратно касается волос дочки, если ей комфортно)*
 
@@ -88,11 +90,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Чистые ручки](illustrations/hands.webp){ loading=lazy }
-
 <a id="ch-16" name="ch-16"></a>
 
 ## Глава 16. Ногти и чистые ручки
+
+![Чистые ручки](illustrations/hands.webp){ loading=lazy }
 
 *(Папа показывает свои руки и руки дочки)*
 
@@ -113,11 +115,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Одежда](illustrations/clothes.webp){ loading=lazy }
-
 <a id="ch-17" name="ch-17"></a>
 
 ## Глава 17. Как стоит одеваться
+
+![Одежда](illustrations/clothes.webp){ loading=lazy }
 
 *(Папа помогает выбрать наряд словами)*
 
@@ -138,11 +140,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Красота сердца](illustrations/daughter-king.webp){ loading=lazy }
-
 <a id="ch-18" name="ch-18"></a>
 
 ## Глава 18. Настоящая красота: дочь Царя
+
+![Красота сердца](illustrations/daughter-king.webp){ loading=lazy }
 
 *(Папа смотрит дочке в глаза)*
 
@@ -163,11 +165,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Косметика позже](illustrations/cosmetics.webp){ loading=lazy }
-
 <a id="ch-19" name="ch-19"></a>
 
 ## Глава 19. Косметика: всё в своё время
+
+![Косметика позже](illustrations/cosmetics.webp){ loading=lazy }
 
 *(Папа объясняет спокойно)*
 
@@ -188,11 +190,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Личные границы](illustrations/say-no.webp){ loading=lazy }
-
 <a id="ch-20" name="ch-20"></a>
 
 ## Глава 20. Правило купальника
+
+![Личные границы](illustrations/say-no.webp){ loading=lazy }
 
 *(Папа говорит очень спокойно и серьёзно, без страха)*
 
@@ -220,11 +222,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Я расту](illustrations/growing.webp){ loading=lazy }
-
 <a id="ch-21" name="ch-21"></a>
 
 ## Глава 21. Ты растёшь — и это хорошо
+
+![Я расту](illustrations/growing.webp){ loading=lazy }
 
 *(Папа показывает, как дочка выросла)*
 
@@ -245,11 +247,11 @@ title: "Часть 2. Тело и красота"
 
 ---
 
-![Малыш в семье](illustrations/baby.webp){ loading=lazy }
-
 <a id="ch-22" name="ch-22"></a>
 
 ## Глава 22. Как появляются детки
+
+![Малыш в семье](illustrations/baby.webp){ loading=lazy }
 
 *(Папа говорит честно и тепло, по-детски)*
 

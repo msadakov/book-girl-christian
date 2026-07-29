@@ -21,6 +21,8 @@ title: "Часть 9. Быт и осторожность"
 
 ## Глава 88. Скука: что делать без экрана
 
+![Скука без экрана](illustrations/boredom-play.webp){ loading=lazy }
+
 *(Папа разводит руками — и вдруг оживляется)*
 
 Скука — не враг. Иногда она как пустая страница: можно нарисовать что угодно! Построить из подушек дом. Найти жучка. Слепить. Спеть. Помочь на кухне. Посмотреть в окно на облака.
@@ -40,11 +42,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Вода](illustrations/water-safe.webp){ loading=lazy }
-
 <a id="ch-89" name="ch-89"></a>
 
 ## Глава 89. Вода: пить и быть осторожной
+
+![Вода](illustrations/water-safe.webp){ loading=lazy }
 
 *(Папа показывает глоток — и «стоп» у края)*
 
@@ -65,11 +67,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Поклонение](illustrations/worship.webp){ loading=lazy }
-
 <a id="ch-90" name="ch-90"></a>
 
 ## Глава 90. Петь Богу от сердца
+
+![Поклонение](illustrations/worship.webp){ loading=lazy }
 
 *(Папа тихо запевает)*
 
@@ -90,11 +92,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Творчество](illustrations/crafts.webp){ loading=lazy }
-
 <a id="ch-91" name="ch-91"></a>
 
 ## Глава 91. Рукоделие и творчество — радость, не идеал
+
+![Творчество](illustrations/crafts.webp){ loading=lazy }
 
 *(Папа радуется кривой, но искренней поделке)*
 
@@ -115,11 +117,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Игра](illustrations/losing-well.webp){ loading=lazy }
-
 <a id="ch-92" name="ch-92"></a>
 
 ## Глава 92. Умение проигрывать
+
+![Игра](illustrations/losing-well.webp){ loading=lazy }
 
 *(Папа хлопает победителю — и обнимает проигравшую)*
 
@@ -140,11 +142,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Огонь](illustrations/fire-safe.webp){ loading=lazy }
-
 <a id="ch-93" name="ch-93"></a>
 
 ## Глава 93. Огонь, розетки и горячее
+
+![Огонь](illustrations/fire-safe.webp){ loading=lazy }
 
 *(Папа показывает «стоп» ладонью)*
 
@@ -165,11 +167,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Лекарства](illustrations/medicine-safe.webp){ loading=lazy }
-
 <a id="ch-94" name="ch-94"></a>
 
 ## Глава 94. Лекарства — не конфеты
+
+![Лекарства](illustrations/medicine-safe.webp){ loading=lazy }
 
 *(Папа качает головой у полки)*
 
@@ -190,11 +192,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Стих](illustrations/verse-week.webp){ loading=lazy }
-
 <a id="ch-95" name="ch-95"></a>
 
 ## Глава 95. Библейский стих на неделю
+
+![Стих](illustrations/verse-week.webp){ loading=lazy }
 
 *(Папа открывает детскую Библию)*
 
@@ -215,11 +217,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Острое](illustrations/sharp-safe.webp){ loading=lazy }
-
 <a id="ch-96" name="ch-96"></a>
 
 ## Глава 96. Острые предметы: ножницы и ножи
+
+![Острое](illustrations/sharp-safe.webp){ loading=lazy }
 
 *(Папа показывает «стоп» у ножниц)*
 
@@ -240,11 +242,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Сирена](illustrations/alarm-calm.webp){ loading=lazy }
-
 <a id="ch-97" name="ch-97"></a>
 
 ## Глава 97. Пожарная сирена и тревога дома
+
+![Сирена](illustrations/alarm-calm.webp){ loading=lazy }
 
 *(Папа говорит очень спокойно)*
 
@@ -270,11 +272,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Мир](illustrations/make-peace.webp){ loading=lazy }
-
 <a id="ch-98" name="ch-98"></a>
 
 ## Глава 98. Как мириться после ссоры
+
+![Мир](illustrations/make-peace.webp){ loading=lazy }
 
 *(Папа считает шаги на пальцах)*
 
@@ -300,11 +302,11 @@ title: "Часть 9. Быт и осторожность"
 
 ---
 
-![Одна](illustrations/alone-time.webp){ loading=lazy }
-
 <a id="ch-99" name="ch-99"></a>
 
 ## Глава 99. «Мне нужно побыть одной»
+
+![Одна](illustrations/alone-time.webp){ loading=lazy }
 
 *(Папа уважительно отходит на шаг)*
 

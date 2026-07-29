@@ -33,11 +33,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Ты особенная](illustrations/god-created-me.webp){ loading=lazy }
-
 <a id="ch-1" name="ch-1"></a>
 
 ## Глава 1. Ты — Божье чудо
+
+![Ты особенная](illustrations/god-created-me.webp){ loading=lazy }
 
 *(Папа показывает на дочку)*
 
@@ -59,11 +59,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Божья любовь](illustrations/god-jesus.webp){ loading=lazy }
-
 <a id="ch-2" name="ch-2"></a>
 
 ## Глава 2. Бог любит тебя всегда
+
+![Божья любовь](illustrations/god-jesus.webp){ loading=lazy }
 
 *(Папа говорит мягко и уверенно)*
 
@@ -85,11 +85,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Библия](illustrations/bible.webp){ loading=lazy }
-
 <a id="ch-3" name="ch-3"></a>
 
 ## Глава 3. Библия — письмо от Бога
+
+![Библия](illustrations/bible.webp){ loading=lazy }
 
 *(Папа показывает Библию или детскую Библию с картинками)*
 
@@ -112,11 +112,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Иисус с детьми](illustrations/jesus-friend-savior.webp){ loading=lazy }
-
 <a id="ch-4" name="ch-4"></a>
 
 ## Глава 4. Иисус — Друг и Спаситель
+
+![Иисус с детьми](illustrations/jesus-friend-savior.webp){ loading=lazy }
 
 *(Папа говорит с теплом)*
 
@@ -139,11 +139,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Молитва](illustrations/prayer.webp){ loading=lazy }
-
 <a id="ch-5" name="ch-5"></a>
 
 ## Глава 5. Как разговаривать с Невидимым Царём?
+
+![Молитва](illustrations/prayer.webp){ loading=lazy }
 
 *(Папа улыбается)*
 
@@ -167,11 +167,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Доброе сердце](illustrations/kindness.webp){ loading=lazy }
-
 <a id="ch-6" name="ch-6"></a>
 
 ## Глава 6. Что значит быть христианином?
+
+![Доброе сердце](illustrations/kindness.webp){ loading=lazy }
 
 *(Папа объясняет просто)*
 
@@ -194,11 +194,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Церковь](illustrations/churches.webp){ loading=lazy }
-
 <a id="ch-7" name="ch-7"></a>
 
 ## Глава 7. Церковь — большая Божья семья
+
+![Церковь](illustrations/churches.webp){ loading=lazy }
 
 *(Папа вспоминает воскресное утро)*
 
@@ -219,11 +219,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Православный храм](illustrations/orthodox.webp){ loading=lazy }
-
 <a id="ch-8" name="ch-8"></a>
 
 ## Глава 8. Православный храм
+
+![Православный храм](illustrations/orthodox.webp){ loading=lazy }
 
 *(Папа говорит уважительно)*
 
@@ -246,11 +246,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Протестантское собрание](illustrations/protestant.webp){ loading=lazy }
-
 <a id="ch-9" name="ch-9"></a>
 
 ## Глава 9. Наша протестантская дорога
+
+![Протестантское собрание](illustrations/protestant.webp){ loading=lazy }
 
 *(Папа про нашу церковь)*
 
@@ -271,11 +271,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Добрый Пастырь](illustrations/good-shepherd.webp){ loading=lazy }
-
 <a id="ch-10" name="ch-10"></a>
 
 ## Глава 10. Рай, надежда и Добрый Пастырь
+
+![Добрый Пастырь](illustrations/good-shepherd.webp){ loading=lazy }
 
 *(Папа говорит спокойно, без страшилок)*
 
@@ -297,11 +297,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Праздники](illustrations/holidays.webp){ loading=lazy }
-
 <a id="ch-11" name="ch-11"></a>
 
 ## Глава 11. Праздники веры
+
+![Праздники](illustrations/holidays.webp){ loading=lazy }
 
 *(Папа вспоминает Рождество и Пасху)*
 
@@ -323,11 +323,11 @@ title: "Часть 1. Вера и Бог"
 
 ---
 
-![Забота о мире](illustrations/animals.webp){ loading=lazy }
-
 <a id="ch-12" name="ch-12"></a>
 
 ## Глава 12. Мир, который Бог нам доверил
+
+![Забота о мире](illustrations/animals.webp){ loading=lazy }
 
 *(Папа и дочка смотрят в окно воображением)*
 

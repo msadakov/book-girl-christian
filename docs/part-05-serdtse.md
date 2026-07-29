@@ -19,6 +19,8 @@ title: "Часть 5. Экраны и сердце"
 
 ## Глава 43. Телефон — не хозяин дома
 
+![Телефон и экран](illustrations/phone-screen.webp){ loading=lazy }
+
 *(Папа мягко, но твёрдо)*
 
 Телефон — как волшебное окошко. В нём можно позвонить бабушке, посмотреть добрую картинку, узнать погоду.
@@ -40,11 +42,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Мультики](illustrations/cartoons-choice.webp){ loading=lazy }
-
 <a id="ch-44" name="ch-44"></a>
 
 ## Глава 44. Мультики — еда для глаз и сердца
+
+![Мультики](illustrations/cartoons-choice.webp){ loading=lazy }
 
 *(Папа сравнивает с едой)*
 
@@ -65,11 +67,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Светофор просмотра](illustrations/watch-choice.webp){ loading=lazy }
-
 <a id="ch-45" name="ch-45"></a>
 
 ## Глава 45. Что стоит смотреть — а что нет
+
+![Светофор просмотра](illustrations/watch-choice.webp){ loading=lazy }
 
 *(Папа рисует светофор словами)*
 
@@ -94,11 +96,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Модные игрушки](illustrations/labubu-trend.webp){ loading=lazy }
-
 <a id="ch-46" name="ch-46"></a>
 
 ## Глава 46. Модные игрушки и «хочу-как-все»
+
+![Модные игрушки](illustrations/labubu-trend.webp){ loading=lazy }
 
 *(Папа объясняет просто и твёрдо)*
 
@@ -129,11 +131,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Песни](illustrations/songs-values.webp){ loading=lazy }
-
 <a id="ch-47" name="ch-47"></a>
 
 ## Глава 47. Песни и ценности
+
+![Песни](illustrations/songs-values.webp){ loading=lazy }
 
 *(Папа говорит о музыке)*
 
@@ -158,11 +160,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Эмоции](illustrations/emotions.webp){ loading=lazy }
-
 <a id="ch-48" name="ch-48"></a>
 
 ## Глава 48. Эмоции — погода в сердце
+
+![Эмоции](illustrations/emotions.webp){ loading=lazy }
 
 *(Папа показывает лица: радость, грусть, злость)*
 
@@ -183,11 +185,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Когда страшно](illustrations/comfort.webp){ loading=lazy }
-
 <a id="ch-49" name="ch-49"></a>
 
 ## Глава 49. Когда страшно
+
+![Когда страшно](illustrations/comfort.webp){ loading=lazy }
 
 *(Папа обнимает)*
 
@@ -208,11 +210,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Искушения](illustrations/temptation.webp){ loading=lazy }
-
 <a id="ch-50" name="ch-50"></a>
 
 ## Глава 50. Искушения: развилка на дороге
+
+![Искушения](illustrations/temptation.webp){ loading=lazy }
 
 *(Папа рисует две дорожки)*
 
@@ -233,11 +235,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Плоды Духа](illustrations/fruit-spirit.webp){ loading=lazy }
-
 <a id="ch-51" name="ch-51"></a>
 
 ## Глава 51. Доброе сердечко и плоды Духа
+
+![Плоды Духа](illustrations/fruit-spirit.webp){ loading=lazy }
 
 *(Папа перечисляет фрукты характера)*
 
@@ -262,11 +264,11 @@ title: "Часть 5. Экраны и сердце"
 
 ---
 
-![Женственность](illustrations/womanhood.webp){ loading=lazy }
-
 <a id="ch-52" name="ch-52"></a>
 
 ## Глава 52. Какой быть девочкой — и потом женщиной
+
+![Женственность](illustrations/womanhood.webp){ loading=lazy }
 
 *(Папа говорит с уважением и мечтой)*
 

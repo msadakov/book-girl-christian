@@ -20,6 +20,8 @@ title: "Часть 6. Библейские истории"
 
 ## Глава 53. Сотворение
 
+![Сотворение](illustrations/creation.webp){ loading=lazy }
+
 *(Папа говорит тихо, почти шёпотом — как будто вместе смотрят на чудо)*
 
 Представь: сначала было темно и тихо. А потом Бог сказал — и засиял свет! Он сделал небо, море и сушу. Зелёную травку. Солнце днём и луну ночью. Рыбок, птичек, зверей… И ещё Он сделал людей — особенных, похожих на Себя сердцем: чтобы любить, радоваться и дружить с Ним.
@@ -39,11 +41,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Адам и Ева](illustrations/adam-eve.webp){ loading=lazy }
-
 <a id="ch-54" name="ch-54"></a>
 
 ## Глава 54. Адам и Ева
+
+![Адам и Ева](illustrations/adam-eve.webp){ loading=lazy }
 
 *(Папа говорит мягко, без страшилок)*
 
@@ -66,11 +68,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Ной](illustrations/noah-ark.webp){ loading=lazy }
-
 <a id="ch-55" name="ch-55"></a>
 
 ## Глава 55. Ной
+
+![Ной](illustrations/noah-ark.webp){ loading=lazy }
 
 *(Папа показывает на радугу пальцем в воздухе)*
 
@@ -93,11 +95,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Иосиф прощает](illustrations/joseph-forgives.webp){ loading=lazy }
-
 <a id="ch-56" name="ch-56"></a>
 
 ## Глава 56. Иосиф прощает
+
+![Иосиф прощает](illustrations/joseph-forgives.webp){ loading=lazy }
 
 *(Папа говорит тепло, глядя в глаза)*
 
@@ -120,11 +122,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Давид и Голиаф](illustrations/david-goliath.webp){ loading=lazy }
-
 <a id="ch-57" name="ch-57"></a>
 
 ## Глава 57. Давид и Голиаф
+
+![Давид и Голиаф](illustrations/david-goliath.webp){ loading=lazy }
 
 *(Папа говорит бодро, но спокойно)*
 
@@ -147,11 +149,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Даниил](illustrations/daniel-lions.webp){ loading=lazy }
-
 <a id="ch-58" name="ch-58"></a>
 
 ## Глава 58. Даниил
+
+![Даниил](illustrations/daniel-lions.webp){ loading=lazy }
 
 *(Папа складывает руки, как будто вместе молятся)*
 
@@ -174,11 +176,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Рождество](illustrations/nativity.webp){ loading=lazy }
-
 <a id="ch-59" name="ch-59"></a>
 
 ## Глава 59. Рождество
+
+![Рождество](illustrations/nativity.webp){ loading=lazy }
 
 *(Папа улыбается, как будто рассказывает о самом лучшем подарке)*
 
@@ -201,11 +203,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Иисус и дети](illustrations/jesus-children.webp){ loading=lazy }
-
 <a id="ch-60" name="ch-60"></a>
 
 ## Глава 60. Иисус и дети
+
+![Иисус и дети](illustrations/jesus-children.webp){ loading=lazy }
 
 *(Папа садится ближе, будто Иисус рядом)*
 
@@ -228,11 +230,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Добрый самарянин](illustrations/good-samaritan.webp){ loading=lazy }
-
 <a id="ch-61" name="ch-61"></a>
 
 ## Глава 61. Добрый самарянин
+
+![Добрый самарянин](illustrations/good-samaritan.webp){ loading=lazy }
 
 *(Папа говорит просто, почти как сказку о добре)*
 
@@ -255,11 +257,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Буря утихла](illustrations/storm-calmed.webp){ loading=lazy }
-
 <a id="ch-62" name="ch-62"></a>
 
 ## Глава 62. Буря утихла
+
+![Буря утихла](illustrations/storm-calmed.webp){ loading=lazy }
 
 *(Папа говорит спокойно, как будто гладит волны ладонью)*
 
@@ -282,11 +284,11 @@ title: "Часть 6. Библейские истории"
 
 ---
 
-![Пасха](illustrations/easter-resurrection.webp){ loading=lazy }
-
 <a id="ch-63" name="ch-63"></a>
 
 ## Глава 63. Крест и воскресение
+
+![Пасха](illustrations/easter-resurrection.webp){ loading=lazy }
 
 *(Папа говорит тихо и радостно — без страшных подробностей)*
 

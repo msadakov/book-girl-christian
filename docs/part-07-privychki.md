@@ -19,6 +19,8 @@ title: "Часть 7. Привычки сердца"
 
 ## Глава 64. Сон — тоже Божий подарок
 
+![Сон](illustrations/sleep.webp){ loading=lazy }
+
 *(Папа говорит тише, почти шёпотом)*
 
 Знаешь, даже сильным людям нужен сон. Сон — не наказание и не «скука». Это Божий подарок: тело отдыхает, сердце успокаивается, мозг складывает день по полочкам.
@@ -38,11 +40,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Спасибо за еду](illustrations/meal-thanks.webp){ loading=lazy }
-
 <a id="ch-65" name="ch-65"></a>
 
 ## Глава 65. Еда без капризов и «спасибо» за стол
+
+![Спасибо за еду](illustrations/meal-thanks.webp){ loading=lazy }
 
 *(Папа гладит воображаемую тарелку)*
 
@@ -63,11 +65,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Деньги](illustrations/money-want-need.webp){ loading=lazy }
-
 <a id="ch-66" name="ch-66"></a>
 
 ## Глава 66. Деньги: «хочу» и «нужно»
+
+![Деньги](illustrations/money-want-need.webp){ loading=lazy }
 
 *(Папа показывает две ладошки)*
 
@@ -88,11 +90,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Правда](illustrations/truth.webp){ loading=lazy }
-
 <a id="ch-67" name="ch-67"></a>
 
 ## Глава 67. Правда и ложь
+
+![Правда](illustrations/truth.webp){ loading=lazy }
 
 *(Папа смотрит прямо и тепло)*
 
@@ -113,11 +115,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Зависть](illustrations/envy.webp){ loading=lazy }
-
 <a id="ch-68" name="ch-68"></a>
 
 ## Глава 68. Зависть и сравнение
+
+![Зависть](illustrations/envy.webp){ loading=lazy }
 
 *(Папа мягко качает головой)*
 
@@ -138,11 +140,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Скромность](illustrations/humility-modesty.webp){ loading=lazy }
-
 <a id="ch-69" name="ch-69"></a>
 
 ## Глава 69. Хвастовство и скромность
+
+![Скромность](illustrations/humility-modesty.webp){ loading=lazy }
 
 *(Папа улыбается)*
 
@@ -163,11 +165,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Терпение](illustrations/patience.webp){ loading=lazy }
-
 <a id="ch-70" name="ch-70"></a>
 
 ## Глава 70. Терпение и ожидание
+
+![Терпение](illustrations/patience.webp){ loading=lazy }
 
 *(Папа медленно считает до трёх)*
 
@@ -188,11 +190,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Щедрость](illustrations/generosity.webp){ loading=lazy }
-
 <a id="ch-71" name="ch-71"></a>
 
 ## Глава 71. Щедрость и помощь нуждающимся
+
+![Щедрость](illustrations/generosity.webp){ loading=lazy }
 
 *(Папа показывает жест «отдать»)*
 
@@ -213,11 +215,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Труд](illustrations/work.webp){ loading=lazy }
-
 <a id="ch-72" name="ch-72"></a>
 
 ## Глава 72. Труд и лень
+
+![Труд](illustrations/work.webp){ loading=lazy }
 
 *(Папа потягивается, потом бодро встаёт)*
 
@@ -238,11 +240,11 @@ title: "Часть 7. Привычки сердца"
 
 ---
 
-![Благодарность](illustrations/gratitude.webp){ loading=lazy }
-
 <a id="ch-73" name="ch-73"></a>
 
 ## Глава 73. Благодарность как привычка
+
+![Благодарность](illustrations/gratitude.webp){ loading=lazy }
 
 *(Папа перечисляет на пальцах)*
 

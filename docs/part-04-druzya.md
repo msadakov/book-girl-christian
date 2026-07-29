@@ -20,6 +20,8 @@ title: "Часть 4. Друзья и школа"
 
 ## Глава 32. Детский сад
 
+![Детский сад](illustrations/kindergarten.webp){ loading=lazy }
+
 *(Папа вспоминает утро у садика)*
 
 В садике ты учишься жить среди людей: ждать очередь, просить игрушку словами, слушать воспитателя, дружить, мириться, иногда скучать по дому.
@@ -39,11 +41,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Друзья](illustrations/friends.webp){ loading=lazy }
-
 <a id="ch-33" name="ch-33"></a>
 
 ## Глава 33. Друзья и сверстники
+
+![Друзья](illustrations/friends.webp){ loading=lazy }
 
 *(Папа улыбается)*
 
@@ -64,11 +66,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Подруги](illustrations/girlfriends.webp){ loading=lazy }
-
 <a id="ch-34" name="ch-34"></a>
 
 ## Глава 34. Подруги
+
+![Подруги](illustrations/girlfriends.webp){ loading=lazy }
 
 *(Папа говорит по-секрету тепло)*
 
@@ -89,11 +91,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Мальчики и девочки](illustrations/boys-girls.webp){ loading=lazy }
-
 <a id="ch-35" name="ch-35"></a>
 
 ## Глава 35. Мальчики
+
+![Мальчики и девочки](illustrations/boys-girls.webp){ loading=lazy }
 
 *(Папа спокойно и ясно)*
 
@@ -114,11 +116,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Конфликт](illustrations/conflict.webp){ loading=lazy }
-
 <a id="ch-36" name="ch-36"></a>
 
 ## Глава 36. Почему одни могут обижать
+
+![Конфликт](illustrations/conflict.webp){ loading=lazy }
 
 *(Папа говорит серьёзно, но без злости)*
 
@@ -145,11 +147,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Слова-колючки](illustrations/kind-words.webp){ loading=lazy }
-
 <a id="ch-37" name="ch-37"></a>
 
 ## Глава 37. Слова-колючки: брань и оскорбления
+
+![Слова-колючки](illustrations/kind-words.webp){ loading=lazy }
 
 *(Папа говорит живо, как сказку)*
 
@@ -177,11 +179,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Прощение](illustrations/forgiveness.webp){ loading=lazy }
-
 <a id="ch-38" name="ch-38"></a>
 
 ## Глава 38. Прощение
+
+![Прощение](illustrations/forgiveness.webp){ loading=lazy }
 
 *(Папа говорит мягко)*
 
@@ -202,11 +204,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Вежливость](illustrations/manners.webp){ loading=lazy }
-
 <a id="ch-39" name="ch-39"></a>
 
 ## Глава 39. Как вести себя в обществе
+
+![Вежливость](illustrations/manners.webp){ loading=lazy }
 
 *(Папа идёт с дочкой в воображаемый автобус)*
 
@@ -227,11 +229,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![К школе](illustrations/school.webp){ loading=lazy }
-
 <a id="ch-40" name="ch-40"></a>
 
 ## Глава 40. Готовимся к школе
+
+![К школе](illustrations/school.webp){ loading=lazy }
 
 *(Папа показывает воображаемый рюкзак)*
 
@@ -252,11 +254,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Учёба](illustrations/learning.webp){ loading=lazy }
-
 <a id="ch-41" name="ch-41"></a>
 
 ## Глава 41. Учёба — исследование Божьего мира
+
+![Учёба](illustrations/learning.webp){ loading=lazy }
 
 *(Папа с восхищением)*
 
@@ -277,11 +279,11 @@ title: "Часть 4. Друзья и школа"
 
 ---
 
-![Мечты](illustrations/dreams.webp){ loading=lazy }
-
 <a id="ch-42" name="ch-42"></a>
 
 ## Глава 42. Выбор пути: маленькие шаги
+
+![Мечты](illustrations/dreams.webp){ loading=lazy }
 
 *(Папа мечтает вместе с дочкой)*
 

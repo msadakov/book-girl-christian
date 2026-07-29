@@ -17,6 +17,8 @@ title: "Часть 10. Церковь"
 
 ## Глава 100. Священники
 
+![Священник](illustrations/priest.webp){ loading=lazy }
+
 *(Папа говорит уважительно и просто)*
 
 В православном храме ты можешь увидеть **священника**. Он в особой одежде, молится, служит, благословляет людей, помогает им идти к Богу.
@@ -36,11 +38,11 @@ title: "Часть 10. Церковь"
 
 ---
 
-![Пастор](illustrations/pastor.webp){ loading=lazy }
-
 <a id="ch-101" name="ch-101"></a>
 
 ## Глава 101. Пастор
+
+![Пастор](illustrations/pastor.webp){ loading=lazy }
 
 *(Папа улыбается, вспоминая церковь)*
 
@@ -61,11 +63,11 @@ title: "Часть 10. Церковь"
 
 ---
 
-![Причастие](illustrations/communion.webp){ loading=lazy }
-
 <a id="ch-102" name="ch-102"></a>
 
 ## Глава 102. Причастие
+
+![Причастие](illustrations/communion.webp){ loading=lazy }
 
 *(Папа говорит тихо и свято)*
 
@@ -86,11 +88,11 @@ title: "Часть 10. Церковь"
 
 ---
 
-![Домашняя группа](illustrations/home-group.webp){ loading=lazy }
-
 <a id="ch-103" name="ch-103"></a>
 
 ## Глава 103. Домашняя группа
+
+![Домашняя группа](illustrations/home-group.webp){ loading=lazy }
 
 *(Папа показывает уютную гостиную)*
 
@@ -111,11 +113,11 @@ title: "Часть 10. Церковь"
 
 ---
 
-![Смысл](illustrations/heaven.webp){ loading=lazy }
-
 <a id="ch-104" name="ch-104"></a>
 
 ## Глава 104. Смысл жизни
+
+![Смысл](illustrations/heaven.webp){ loading=lazy }
 
 *(Папа смотрит дочке в глаза серьёзно и радостно)*
 
@@ -136,11 +138,11 @@ title: "Часть 10. Церковь"
 
 ---
 
-![Ужин](illustrations/business-dinner.webp){ loading=lazy }
-
 <a id="ch-105" name="ch-105"></a>
 
 ## Глава 105. Христианские встречи взрослых
+
+![Ужин](illustrations/business-dinner.webp){ loading=lazy }
 
 *(Папа рассказывает как о празднике взрослых)*
 
@@ -161,11 +163,11 @@ title: "Часть 10. Церковь"
 
 ---
 
-![Щека](illustrations/other-cheek.webp){ loading=lazy }
-
 <a id="ch-106" name="ch-106"></a>
 
 ## Глава 106. Подставить другую щёку
+
+![Щека](illustrations/other-cheek.webp){ loading=lazy }
 
 *(Папа мягко касается своей щеки)*
 
@@ -186,11 +188,11 @@ title: "Часть 10. Церковь"
 
 ---
 
-![Героини](illustrations/esther-mary.webp){ loading=lazy }
-
 <a id="ch-107" name="ch-107"></a>
 
 ## Глава 107. Библейские девочки: Эсфирь и Мария
+
+![Героини](illustrations/esther-mary.webp){ loading=lazy }
 
 *(Папа открывает две картинки-истории)*
 

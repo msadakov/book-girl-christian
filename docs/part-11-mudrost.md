@@ -28,6 +28,8 @@ title: "Часть 11. Расти в мудрости"
 
 ## Глава 108. «Я сама!» и принять помощь
 
+![Принять помощь](illustrations/help-without-asking.webp){ loading=lazy }
+
 *(Папа протягивает руку — и ждёт согласия)*
 
 «Я сама!» — прекрасные слова роста. Но иногда замок слишком тугой, банка не открывается, сердце тяжёлое. Тогда сила — **принять помощь**.
@@ -47,11 +49,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Машина](illustrations/car-seat.webp){ loading=lazy }
-
 <a id="ch-109" name="ch-109"></a>
 
 ## Глава 109. Правила в машине: ремень
+
+![Машина](illustrations/car-seat.webp){ loading=lazy }
 
 *(Папа щёлкает ремень — щёлк!)*
 
@@ -72,11 +74,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Ягоды](illustrations/berries-safe.webp){ loading=lazy }
-
 <a id="ch-110" name="ch-110"></a>
 
 ## Глава 110. Незнакомые ягоды и грибы
+
+![Ягоды](illustrations/berries-safe.webp){ loading=lazy }
 
 *(Папа качает головой у куста)*
 
@@ -97,11 +99,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Коленка](illustrations/scraped-knee.webp){ loading=lazy }
-
 <a id="ch-111" name="ch-111"></a>
 
 ## Глава 111. Если идёт кровь из коленки
+
+![Коленка](illustrations/scraped-knee.webp){ loading=lazy }
 
 *(Папа спокойно достаёт пластырь)*
 
@@ -126,11 +128,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Добро тайком](illustrations/secret-kindness.webp){ loading=lazy }
-
 <a id="ch-112" name="ch-112"></a>
 
 ## Глава 112. Добро не только напоказ
+
+![Добро тайком](illustrations/secret-kindness.webp){ loading=lazy }
 
 *(Папа шепчет, будто делится секретом)*
 
@@ -151,11 +153,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Мне страшно](illustrations/i-am-scared.webp){ loading=lazy }
-
 <a id="ch-113" name="ch-113"></a>
 
 ## Глава 113. Уметь сказать: «мне страшно»
+
+![Мне страшно](illustrations/i-am-scared.webp){ loading=lazy }
 
 *(Папа берёт дочку за руку и кивает)*
 
@@ -176,11 +178,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Спасибо за замечание](illustrations/thanks-for-correction.webp){ loading=lazy }
-
 <a id="ch-114" name="ch-114"></a>
 
 ## Глава 114. Благодарить за замечание без обиды
+
+![Спасибо за замечание](illustrations/thanks-for-correction.webp){ loading=lazy }
 
 *(Папа мягко поправляет воображаемую игрушку и улыбается)*
 
@@ -201,11 +203,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Телефон родителей](illustrations/lost-phone.webp){ loading=lazy }
-
 <a id="ch-115" name="ch-115"></a>
 
 ## Глава 115. Если потерялся телефон родителей
+
+![Телефон родителей](illustrations/lost-phone.webp){ loading=lazy }
 
 *(Папа показывает воображаемый телефон и кладёт его «на место»)*
 
@@ -226,11 +228,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Парковка](illustrations/parking-stay-close.webp){ loading=lazy }
-
 <a id="ch-116" name="ch-116"></a>
 
 ## Глава 116. Не отходить от семьи на парковке
+
+![Парковка](illustrations/parking-stay-close.webp){ loading=lazy }
 
 *(Папа крепко держит за руку и смотрит по сторонам)*
 
@@ -251,11 +253,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Скользко](illustrations/slippery-careful.webp){ loading=lazy }
-
 <a id="ch-117" name="ch-117"></a>
 
 ## Глава 117. Осторожность с лестницей, скользким полом, льдом
+
+![Скользко](illustrations/slippery-careful.webp){ loading=lazy }
 
 *(Папа показывает осторожные шажочки)*
 
@@ -276,11 +278,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Я занята](illustrations/im-busy-soft.webp){ loading=lazy }
-
 <a id="ch-118" name="ch-118"></a>
 
 ## Глава 118. Как мягко сказать: «я сейчас занята»
+
+![Я занята](illustrations/im-busy-soft.webp){ loading=lazy }
 
 *(Папа показывает ладонь «стоп» — но мягко, с улыбкой)*
 
@@ -301,11 +303,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Испорченная вещь](illustrations/broken-borrowed.webp){ loading=lazy }
-
 <a id="ch-119" name="ch-119"></a>
 
 ## Глава 119. Как вернуть чужую вещь, если случайно испортила
+
+![Испорченная вещь](illustrations/broken-borrowed.webp){ loading=lazy }
 
 *(Папа держит сломанную игрушку бережно, без крика)*
 
@@ -326,11 +328,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Разные характеры](illustrations/different-friends.webp){ loading=lazy }
-
 <a id="ch-120" name="ch-120"></a>
 
 ## Глава 120. Как дружить, если вы разные по характеру
+
+![Разные характеры](illustrations/different-friends.webp){ loading=lazy }
 
 *(Папа показывает два разных карандаша, лежащих рядом)*
 
@@ -351,11 +353,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Библия устала](illustrations/bible-when-tired.webp){ loading=lazy }
-
 <a id="ch-121" name="ch-121"></a>
 
 ## Глава 121. Как слушать Библию, когда устала
+
+![Библия устала](illustrations/bible-when-tired.webp){ loading=lazy }
 
 *(Папа читает тихо, почти как колыбельную)*
 
@@ -376,11 +378,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Любовь не за идеал](illustrations/loved-not-perfect.webp){ loading=lazy }
-
 <a id="ch-122" name="ch-122"></a>
 
 ## Глава 122. Почему Бог любит нас не за идеальность
+
+![Любовь не за идеал](illustrations/loved-not-perfect.webp){ loading=lazy }
 
 *(Папа обнимает даже после «ой, ошиблась»)*
 
@@ -401,11 +403,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Маленькая радость](illustrations/joy-of-small.webp){ loading=lazy }
-
 <a id="ch-123" name="ch-123"></a>
 
 ## Глава 123. Радость быть маленькой сейчас
+
+![Маленькая радость](illustrations/joy-of-small.webp){ loading=lazy }
 
 *(Папа поднимает дочку на руки — легко и весело)*
 
@@ -426,11 +428,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Послушное сердце](illustrations/obedient-free-heart.webp){ loading=lazy }
-
 <a id="ch-124" name="ch-124"></a>
 
 ## Глава 124. Красота послушного и свободного сердца
+
+![Послушное сердце](illustrations/obedient-free-heart.webp){ loading=lazy }
 
 *(Папа рисует в воздухе сердце и открытую дверь)*
 
@@ -451,11 +453,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Расти в мудрости](illustrations/grow-in-wisdom.webp){ loading=lazy }
-
 <a id="ch-125" name="ch-125"></a>
 
 ## Глава 125. Как расти в мудрости, а не только в возрасте
+
+![Расти в мудрости](illustrations/grow-in-wisdom.webp){ loading=lazy }
 
 *(Папа указывает на голову и на сердце)*
 
@@ -476,11 +478,11 @@ title: "Часть 11. Расти в мудрости"
 
 ---
 
-![Благословение](illustrations/night-blessing.webp){ loading=lazy }
-
 <a id="ch-126" name="ch-126"></a>
 
 ## Глава 126. Благословение на ночь
+
+![Благословение](illustrations/night-blessing.webp){ loading=lazy }
 
 *(Папа кладёт руку на голову или плечо дочки)*
 

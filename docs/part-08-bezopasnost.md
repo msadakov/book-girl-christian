@@ -23,6 +23,8 @@ title: "Часть 8. Безопасность и люди"
 
 ## Глава 74. Незнакомцы и безопасные взрослые
 
+![Безопасные взрослые](illustrations/lost-safe.webp){ loading=lazy }
+
 *(Папа говорит спокойно и серьёзно)*
 
 Не каждый улыбчивый взрослый — безопасный. Правило: не уходим с незнакомцами, не садимся в чужую машину, не берём конфеты, деньги и «секретные» подарки. Не рассказываем чужим адрес, код двери и дорогу домой. В лифт с незнакомыми не заходим, дверь дома без взрослых не открываем, окна и балкон одной не открываем.
@@ -42,11 +44,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Если потерялась](illustrations/lost-help.webp){ loading=lazy }
-
 <a id="ch-75" name="ch-75"></a>
 
 ## Глава 75. Что делать, если потерялась
+
+![Если потерялась](illustrations/lost-help.webp){ loading=lazy }
 
 *(Папа отрабатывает план, как тренировку)*
 
@@ -71,11 +73,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Врач](illustrations/doctor.webp){ loading=lazy }
-
 <a id="ch-76" name="ch-76"></a>
 
 ## Глава 76. Врач, уколы и боль
+
+![Врач](illustrations/doctor.webp){ loading=lazy }
 
 *(Папа берёт дочку за руку)*
 
@@ -96,11 +98,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Гроза](illustrations/storm.webp){ loading=lazy }
-
 <a id="ch-77" name="ch-77"></a>
 
 ## Глава 77. Гроза и непогода
+
+![Гроза](illustrations/storm.webp){ loading=lazy }
 
 *(Папа изображает гром далеко-далеко)*
 
@@ -121,11 +123,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Братья и сёстры](illustrations/siblings.webp){ loading=lazy }
-
 <a id="ch-78" name="ch-78"></a>
 
 ## Глава 78. Братья, сёстры и ревность
+
+![Братья и сёстры](illustrations/siblings.webp){ loading=lazy }
 
 *(Папа говорит очень понимающе)*
 
@@ -146,11 +148,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Гости](illustrations/hospitality.webp){ loading=lazy }
-
 <a id="ch-79" name="ch-79"></a>
 
 ## Глава 79. Гости и гостеприимство
+
+![Гости](illustrations/hospitality.webp){ loading=lazy }
 
 *(Папа распахивает воображаемую дверь)*
 
@@ -171,11 +173,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Воспитатели](illustrations/teacher.webp){ loading=lazy }
-
 <a id="ch-80" name="ch-80"></a>
 
 ## Глава 80. Воспитатели и уважение
+
+![Воспитатели](illustrations/teacher.webp){ loading=lazy }
 
 *(Папа кивает с уважением)*
 
@@ -196,11 +198,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Достоинство](illustrations/dignity.webp){ loading=lazy }
-
 <a id="ch-81" name="ch-81"></a>
 
 ## Глава 81. Каждый человек — ценный
+
+![Достоинство](illustrations/dignity.webp){ loading=lazy }
 
 *(Папа говорит медленно и важно)*
 
@@ -221,11 +223,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Святой Дух](illustrations/holy-spirit.webp){ loading=lazy }
-
 <a id="ch-82" name="ch-82"></a>
 
 ## Глава 82. Святой Дух — Помощник рядом
+
+![Святой Дух](illustrations/holy-spirit.webp){ loading=lazy }
 
 *(Папа говорит просто и тепло)*
 
@@ -246,11 +248,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Ангелы](illustrations/angels.webp){ loading=lazy }
-
 <a id="ch-83" name="ch-83"></a>
 
 ## Глава 83. Ангелы — Божьи слуги
+
+![Ангелы](illustrations/angels.webp){ loading=lazy }
 
 *(Папа говорит спокойно, без сказки-ужастика)*
 
@@ -271,11 +273,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Крещение](illustrations/baptism.webp){ loading=lazy }
-
 <a id="ch-84" name="ch-84"></a>
 
 ## Глава 84. Крещение: я принадлежу Иисусу
+
+![Крещение](illustrations/baptism.webp){ loading=lazy }
 
 *(Папа говорит торжественно и просто)*
 
@@ -296,11 +298,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Пожертвование](illustrations/offering.webp){ loading=lazy }
-
 <a id="ch-85" name="ch-85"></a>
 
 ## Глава 85. Монетка от сердца
+
+![Пожертвование](illustrations/offering.webp){ loading=lazy }
 
 *(Папа кладёт воображаемую монетку)*
 
@@ -321,11 +323,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Рассказать об Иисусе](illustrations/mission.webp){ loading=lazy }
-
 <a id="ch-86" name="ch-86"></a>
 
 ## Глава 86. Рассказывать друзьям об Иисусе
+
+![Рассказать об Иисусе](illustrations/mission.webp){ loading=lazy }
 
 *(Папа шепчет, как секрет радости)*
 
@@ -346,11 +348,11 @@ title: "Часть 8. Безопасность и люди"
 
 ---
 
-![Надежда Небес](illustrations/hope-heaven.webp){ loading=lazy }
-
 <a id="ch-87" name="ch-87"></a>
 
 ## Глава 87. Когда близкие с Иисусом
+
+![Надежда Небес](illustrations/hope-heaven.webp){ loading=lazy }
 
 *(Папа обнимает, говорит очень нежно)*
 

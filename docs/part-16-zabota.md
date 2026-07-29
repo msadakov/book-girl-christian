@@ -15,11 +15,11 @@ title: "Часть 16. Маленькая забота"
 - [Глава 184. Как быть, если одежда испачкалась](#ch-184)
 - [Глава 185. Когда кто-то не хочет с тобой играть](#ch-185)
 
-![Другой ребёнок плачет](illustrations/child-crying-comfort.webp){ loading=lazy }
-
 <a id="ch-176" name="ch-176"></a>
 
 ## Глава 176. Когда другой ребёнок плачет
+
+![Другой ребёнок плачет](illustrations/child-crying-comfort.webp){ loading=lazy }
 
 *(Папа говорит тихо, будто рядом кто-то грустит)*
 
@@ -42,11 +42,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Кашель и салфетка](illustrations/cough-tissue.webp){ loading=lazy }
-
 <a id="ch-177" name="ch-177"></a>
 
 ## Глава 177. Кашель, сопли и чистый нос
+
+![Кашель и салфетка](illustrations/cough-tissue.webp){ loading=lazy }
 
 *(Папа показывает салфетку и локоток)*
 
@@ -69,11 +69,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Чужой стакан](illustrations/no-shared-cup.webp){ loading=lazy }
-
 <a id="ch-178" name="ch-178"></a>
 
 ## Глава 178. Не пить из чужого стакана
+
+![Чужой стакан](illustrations/no-shared-cup.webp){ loading=lazy }
 
 *(Папа ставит два воображаемых стаканчика рядом)*
 
@@ -96,11 +96,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Туалет вне дома](illustrations/bathroom-away.webp){ loading=lazy }
-
 <a id="ch-179" name="ch-179"></a>
 
 ## Глава 179. Если нужно в туалет вне дома
+
+![Туалет вне дома](illustrations/bathroom-away.webp){ loading=lazy }
 
 *(Папа говорит спокойно, без смешка)*
 
@@ -123,11 +123,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Потерялась игрушка](illustrations/lost-favorite-toy.webp){ loading=lazy }
-
 <a id="ch-180" name="ch-180"></a>
 
 ## Глава 180. Когда потерялась любимая игрушка
+
+![Потерялась игрушка](illustrations/lost-favorite-toy.webp){ loading=lazy }
 
 *(Папа заглядывает под воображаемую подушку)*
 
@@ -150,11 +150,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Ждать в очереди](illustrations/waiting-clinic-line.webp){ loading=lazy }
-
 <a id="ch-181" name="ch-181"></a>
 
 ## Глава 181. Как ждать в поликлинике или очереди
+
+![Ждать в очереди](illustrations/waiting-clinic-line.webp){ loading=lazy }
 
 *(Папа показывает маленькую сумку с книжкой)*
 
@@ -177,11 +177,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Тебя зовут](illustrations/called-while-playing.webp){ loading=lazy }
-
 <a id="ch-182" name="ch-182"></a>
 
 ## Глава 182. Когда тебя зовут, а ты играешь
+
+![Тебя зовут](illustrations/called-while-playing.webp){ loading=lazy }
 
 *(Папа зовёт ласково, не крича)*
 
@@ -204,11 +204,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Не прятаться](illustrations/no-hiding-from-parents.webp){ loading=lazy }
-
 <a id="ch-183" name="ch-183"></a>
 
 ## Глава 183. Почему нельзя прятаться от родителей в магазине или гостях
+
+![Не прятаться](illustrations/no-hiding-from-parents.webp){ loading=lazy }
 
 *(Папа крепко держит дочку за руку)*
 
@@ -231,11 +231,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Испачкалась одежда](illustrations/clothes-got-dirty.webp){ loading=lazy }
-
 <a id="ch-184" name="ch-184"></a>
 
 ## Глава 184. Как быть, если одежда испачкалась
+
+![Испачкалась одежда](illustrations/clothes-got-dirty.webp){ loading=lazy }
 
 *(Папа показывает пятнышко и улыбается спокойно)*
 
@@ -258,11 +258,11 @@ title: "Часть 16. Маленькая забота"
 
 ---
 
-![Не хочет играть](illustrations/friend-says-no-play.webp){ loading=lazy }
-
 <a id="ch-185" name="ch-185"></a>
 
 ## Глава 185. Когда кто-то не хочет с тобой играть
+
+![Не хочет играть](illustrations/friend-says-no-play.webp){ loading=lazy }
 
 *(Папа разводит ладони: «бывает и так»)*
 

@@ -21,6 +21,8 @@ title: "Часть 12. Близость и границы"
 
 ## Глава 127. Когда мама или папа уходят и возвращаются
 
+![Родители возвращаются](illustrations/parent-return.webp){ loading=lazy }
+
 *(Папа показывает дверь и улыбается спокойно)*
 
 Иногда мама уходит в магазин. Иногда папа идёт на работу. Иногда в садике надо сказать: «Пока-пока» — и сердечко вдруг сжимается, будто маленький кулачок.
@@ -42,11 +44,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Не хочу обниматься](illustrations/no-forced-hugs.webp){ loading=lazy }
-
 <a id="ch-128" name="ch-128"></a>
 
 ## Глава 128. Можно ли не обниматься?
+
+![Не хочу обниматься](illustrations/no-forced-hugs.webp){ loading=lazy }
 
 *(Папа раскрывает ладони, будто говорит: «можно выбрать»)*
 
@@ -69,11 +71,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Чистота и приватность](illustrations/potty-privacy.webp){ loading=lazy }
-
 <a id="ch-129" name="ch-129"></a>
 
 ## Глава 129. Туалет, стыд и чистота
+
+![Чистота и приватность](illustrations/potty-privacy.webp){ loading=lazy }
 
 *(Папа говорит просто, без смущения)*
 
@@ -96,11 +98,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Настоящее прости](illustrations/real-apology.webp){ loading=lazy }
-
 <a id="ch-130" name="ch-130"></a>
 
 ## Глава 130. Как просить прощения по-настоящему
+
+![Настоящее прости](illustrations/real-apology.webp){ loading=lazy }
 
 *(Папа кладёт руку на сердце)*
 
@@ -123,11 +125,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Похвала](illustrations/receive-praise.webp){ loading=lazy }
-
 <a id="ch-131" name="ch-131"></a>
 
 ## Глава 131. Когда тебя хвалят
+
+![Похвала](illustrations/receive-praise.webp){ loading=lazy }
 
 *(Папа хлопает тихо, как после маленького концерта)*
 
@@ -150,11 +152,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Другой умеет лучше](illustrations/someone-better.webp){ loading=lazy }
-
 <a id="ch-132" name="ch-132"></a>
 
 ## Глава 132. Когда другой лучше умеет
+
+![Другой умеет лучше](illustrations/someone-better.webp){ loading=lazy }
 
 *(Папа рисует две разные звёздочки в воздухе)*
 
@@ -177,11 +179,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Очередь](illustrations/turn-taking.webp){ loading=lazy }
-
 <a id="ch-133" name="ch-133"></a>
 
 ## Глава 133. Делиться и ждать своей очереди
+
+![Очередь](illustrations/turn-taking.webp){ loading=lazy }
 
 *(Папа показывает две ладошки: «сейчас ты, потом я»)*
 
@@ -204,11 +206,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Бережные вещи](illustrations/careful-things.webp){ loading=lazy }
-
 <a id="ch-134" name="ch-134"></a>
 
 ## Глава 134. Бережность к вещам
+
+![Бережные вещи](illustrations/careful-things.webp){ loading=lazy }
 
 *(Папа берёт книгу двумя руками)*
 
@@ -231,11 +233,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Попробовать снова](illustrations/try-again.webp){ loading=lazy }
-
 <a id="ch-135" name="ch-135"></a>
 
 ## Глава 135. Когда что-то не получилось
+
+![Попробовать снова](illustrations/try-again.webp){ loading=lazy }
 
 *(Папа показывает помятый лист и новый карандаш)*
 
@@ -258,11 +260,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Можно мне](illustrations/ask-politely.webp){ loading=lazy }
-
 <a id="ch-136" name="ch-136"></a>
 
 ## Глава 136. Как говорить «можно мне?»
+
+![Можно мне](illustrations/ask-politely.webp){ loading=lazy }
 
 *(Папа говорит очень мягким голосом)*
 
@@ -285,11 +287,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Маленькая тишина](illustrations/quiet-moment.webp){ loading=lazy }
-
 <a id="ch-137" name="ch-137"></a>
 
 ## Глава 137. Маленькая тишина
+
+![Маленькая тишина](illustrations/quiet-moment.webp){ loading=lazy }
 
 *(Папа прикладывает палец к губам и улыбается)*
 
@@ -312,11 +314,11 @@ title: "Часть 12. Близость и границы"
 
 ---
 
-![Воскресенье](illustrations/sunday-special.webp){ loading=lazy }
-
 <a id="ch-138" name="ch-138"></a>
 
 ## Глава 138. Воскресенье — особенный день
+
+![Воскресенье](illustrations/sunday-special.webp){ loading=lazy }
 
 *(Папа показывает календарь и маленькое солнышко)*
 

@@ -18,6 +18,8 @@ title: "Часть 3. Семья и дом"
 
 ## Глава 23. Мама
 
+![Мама](illustrations/mom.webp){ loading=lazy }
+
 *(Папа говорит с благодарностью о маме)*
 
 Мама заботится, учит, иногда устаёт, часто молится за тебя сердцем. Уважение к маме — это слушаться, говорить ласково, помогать, говорить «спасибо» и «я люблю тебя».
@@ -37,11 +39,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Папина любовь](illustrations/family.webp){ loading=lazy }
-
 <a id="ch-24" name="ch-24"></a>
 
 ## Глава 24. Папина любовь
+
+![Папина любовь](illustrations/family.webp){ loading=lazy }
 
 *(Папа обнимает дочку)*
 
@@ -66,11 +68,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Родители вместе](illustrations/parents-team.webp){ loading=lazy }
-
 <a id="ch-25" name="ch-25"></a>
 
 ## Глава 25. Мама и папа — команда
+
+![Родители вместе](illustrations/parents-team.webp){ loading=lazy }
 
 *(Папа объясняет спокойно)*
 
@@ -91,11 +93,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Послушание](illustrations/obedience.webp){ loading=lazy }
-
 <a id="ch-26" name="ch-26"></a>
 
 ## Глава 26. Послушание — это доверие
+
+![Послушание](illustrations/obedience.webp){ loading=lazy }
 
 *(Папа берёт дочку за руку)*
 
@@ -116,11 +118,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Бабушки и дедушки](illustrations/grandparents.webp){ loading=lazy }
-
 <a id="ch-27" name="ch-27"></a>
 
 ## Глава 27. Бабушки и дедушки
+
+![Бабушки и дедушки](illustrations/grandparents.webp){ loading=lazy }
 
 *(Папа вспоминает старших с теплом)*
 
@@ -141,11 +143,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Семейное дерево](illustrations/family-tree.webp){ loading=lazy }
-
 <a id="ch-28" name="ch-28"></a>
 
 ## Глава 28. Семья и род
+
+![Семейное дерево](illustrations/family-tree.webp){ loading=lazy }
 
 *(Папа рисует пальцем дерево в воздухе)*
 
@@ -166,11 +168,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Брак](illustrations/marriage.webp){ loading=lazy }
-
 <a id="ch-29" name="ch-29"></a>
 
 ## Глава 29. Брак — красивый завет
+
+![Брак](illustrations/marriage.webp){ loading=lazy }
 
 *(Папа показывает или вспоминает свадебное фото)*
 
@@ -191,11 +193,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Уборка](illustrations/cleaning.webp){ loading=lazy }
-
 <a id="ch-30" name="ch-30"></a>
 
 ## Глава 30. Уборка — мир в доме
+
+![Уборка](illustrations/cleaning.webp){ loading=lazy }
 
 *(Папа предлагает игру)*
 
@@ -216,11 +218,11 @@ title: "Часть 3. Семья и дом"
 
 ---
 
-![Готовим](illustrations/cooking.webp){ loading=lazy }
-
 <a id="ch-31" name="ch-31"></a>
 
 ## Глава 31. Готовим вместе
+
+![Готовим](illustrations/cooking.webp){ loading=lazy }
 
 *(Папа зовёт на кухню словами)*
 

@@ -22,6 +22,8 @@ title: "Часть 13. Доброта дома"
 
 ## Глава 139. Когда дома младший ребёнок или малыш
 
+![Младший ребёнок](illustrations/gentle-baby.webp){ loading=lazy }
+
 *(Папа показывает, как держать ладошку мягко)*
 
 Малыш маленький: он плачет, много спит, не умеет ждать и не понимает правил. Иногда кажется, что все смотрят только на него. Сердечко может ревновать.
@@ -43,11 +45,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Помощь без команды](illustrations/help-without-asking.webp){ loading=lazy }
-
 <a id="ch-140" name="ch-140"></a>
 
 ## Глава 140. Помогать без команды
+
+![Помощь без команды](illustrations/help-without-asking.webp){ loading=lazy }
 
 *(Папа будто замечает упавшую салфетку)*
 
@@ -70,11 +72,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Спросить перед тем как взять](illustrations/ask-before-taking.webp){ loading=lazy }
-
 <a id="ch-141" name="ch-141"></a>
 
 ## Глава 141. Почему нельзя брать без спроса
+
+![Спросить перед тем как взять](illustrations/ask-before-taking.webp){ loading=lazy }
 
 *(Папа кладёт ладонь рядом с игрушкой, но не берёт её)*
 
@@ -97,11 +99,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Хорошие и плохие секреты](illustrations/good-bad-secrets.webp){ loading=lazy }
-
 <a id="ch-142" name="ch-142"></a>
 
 ## Глава 142. Секреты хорошие и плохие
+
+![Хорошие и плохие секреты](illustrations/good-bad-secrets.webp){ loading=lazy }
 
 *(Папа говорит серьёзно и очень спокойно)*
 
@@ -124,11 +126,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Взрослый неправ](illustrations/unsafe-adult-request.webp){ loading=lazy }
-
 <a id="ch-143" name="ch-143"></a>
 
 ## Глава 143. Когда взрослый неправ
+
+![Взрослый неправ](illustrations/unsafe-adult-request.webp){ loading=lazy }
 
 *(Папа говорит уверенно, чтобы дочке было спокойно)*
 
@@ -151,11 +153,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Выбираем игру](illustrations/choose-game.webp){ loading=lazy }
-
 <a id="ch-144" name="ch-144"></a>
 
 ## Глава 144. Как выбирать игру
+
+![Выбираем игру](illustrations/choose-game.webp){ loading=lazy }
 
 *(Папа раскладывает воображаемые игрушки)*
 
@@ -178,11 +180,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Добрые слова дома](illustrations/home-kind-words.webp){ loading=lazy }
-
 <a id="ch-145" name="ch-145"></a>
 
 ## Глава 145. Добрые слова дома
+
+![Добрые слова дома](illustrations/home-kind-words.webp){ loading=lazy }
 
 *(Папа смотрит вокруг комнаты)*
 
@@ -205,11 +207,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Короткая молитва](illustrations/short-prayer.webp){ loading=lazy }
-
 <a id="ch-146" name="ch-146"></a>
 
 ## Глава 146. Бог слышит даже короткую молитву
+
+![Короткая молитва](illustrations/short-prayer.webp){ loading=lazy }
 
 *(Папа складывает ладони на одну секунду)*
 
@@ -232,11 +234,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Злюсь на родителей](illustrations/angry-at-parents.webp){ loading=lazy }
-
 <a id="ch-147" name="ch-147"></a>
 
 ## Глава 147. Когда я злюсь на маму или папу
+
+![Злюсь на родителей](illustrations/angry-at-parents.webp){ loading=lazy }
 
 *(Папа говорит спокойно, не сердясь на само чувство)*
 
@@ -259,11 +261,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Святые книги](illustrations/books-holy-things.webp){ loading=lazy }
-
 <a id="ch-148" name="ch-148"></a>
 
 ## Глава 148. Книги, Библия и святые вещи
+
+![Святые книги](illustrations/books-holy-things.webp){ loading=lazy }
 
 *(Папа осторожно открывает книгу)*
 
@@ -286,11 +288,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Комната в порядке](illustrations/room-order.webp){ loading=lazy }
-
 <a id="ch-149" name="ch-149"></a>
 
 ## Глава 149. Моя комната — маленькое царство порядка
+
+![Комната в порядке](illustrations/room-order.webp){ loading=lazy }
 
 *(Папа показывает на пол, полку и кроватку)*
 
@@ -313,11 +315,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Не командовать](illustrations/not-bossy.webp){ loading=lazy }
-
 <a id="ch-150" name="ch-150"></a>
 
 ## Глава 150. Когда хочется командовать всеми
+
+![Не командовать](illustrations/not-bossy.webp){ loading=lazy }
 
 *(Папа изображает маленькую корону и снимает её с улыбкой)*
 
@@ -340,11 +342,11 @@ title: "Часть 13. Доброта дома"
 
 ---
 
-![Слёзы не стыдно](illustrations/tears-not-shame.webp){ loading=lazy }
-
 <a id="ch-151" name="ch-151"></a>
 
 ## Глава 151. Слёзы — это не стыдно
+
+![Слёзы не стыдно](illustrations/tears-not-shame.webp){ loading=lazy }
 
 *(Папа протягивает платочек)*
 
