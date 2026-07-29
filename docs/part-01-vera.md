@@ -345,10 +345,3 @@ title: "Часть 1. Вера и Бог"
 
 **🙏 Наша молитва:**
 «Творец, спасибо за Твой прекрасный мир. Научи меня беречь его с любовью. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-02-telo/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 2. Тело и красота</em></p>
-</div>

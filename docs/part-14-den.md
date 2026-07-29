@@ -338,10 +338,3 @@ title: "Часть 14. Каждый день"
 
 **🙏 Наша молитва:**
 «Бог, научи моё сердце быть довольным и не командовать через “купи”. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-13-dom/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-15-vmeste/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 13. Доброта дома | Часть 15. Вместе дальше</em></p>
-</div>

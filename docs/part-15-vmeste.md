@@ -339,10 +339,3 @@ title: "Часть 15. Вместе дальше"
 
 **🙏 Наша молитва:**
 «Господь, благослови наши семейные традиции и сделай наш дом местом любви. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-14-den/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-16-zabota/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 14. Каждый день | Часть 16. Маленькая забота</em></p>
-</div>

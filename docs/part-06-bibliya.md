@@ -308,10 +308,3 @@ title: "Часть 6. Библейские истории"
 
 **🙏 Наша молитва:**
 «Иисус, спасибо, что Ты умер за нас и воскрес! Ты живой — и я радуюсь. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-05-serdtse/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-07-privychki/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 5. Экраны и сердце | Часть 7. Привычки сердца</em></p>
-</div>

@@ -286,10 +286,3 @@ title: "Часть 5. Экраны и сердце"
 
 **🙏 Наша молитва:**
 «Господь, расти во мне веру, мудрость, доброту и смелость. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-04-druzya/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-06-bibliya/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 4. Друзья и школа | Часть 6. Библейские истории</em></p>
-</div>

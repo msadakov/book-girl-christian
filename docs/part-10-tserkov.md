@@ -212,10 +212,3 @@ title: "Часть 10. Церковь"
 
 **🙏 Наша молитва:**
 «Бог, расти во мне смелость Эсфири и доверие Марии. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-09-byt/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-11-mudrost/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 9. Быт и осторожность | Часть 11. Расти в мудрости</em></p>
-</div>

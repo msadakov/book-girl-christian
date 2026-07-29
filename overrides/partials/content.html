@@ -5,3 +5,23 @@
 {% include "partials/source-file.html" %}
 {% include "partials/feedback.html" %}
 {% include "partials/comments.html" %}
+
+{#- Prev/next inside article so Instant View keeps the links at the bottom -#}
+{% set src = page.file.src_uri if page and page.file else "" %}
+{% if src.startswith("part-") and (page.previous_page or page.next_page) %}
+  {% set prev = page.previous_page if page.previous_page and page.previous_page.file.src_uri.startswith("part-") else none %}
+  {% set next = page.next_page if page.next_page and page.next_page.file.src_uri.startswith("part-") else none %}
+  {% if prev or next %}
+<hr>
+{% if prev and next %}
+<p class="part-nav" align="center"><a href="{{ prev.canonical_url }}">&lt;- Предыдущая часть</a> | <a href="{{ next.canonical_url }}">Следующая часть -&gt;</a></p>
+<p class="part-nav" align="center"><em>{{ prev.title }} | {{ next.title }}</em></p>
+{% elif next %}
+<p class="part-nav" align="center"><a href="{{ next.canonical_url }}">Следующая часть -&gt;</a></p>
+<p class="part-nav" align="center"><em>{{ next.title }}</em></p>
+{% else %}
+<p class="part-nav" align="center"><a href="{{ prev.canonical_url }}">&lt;- Предыдущая часть</a></p>
+<p class="part-nav" align="center"><em>{{ prev.title }}</em></p>
+{% endif %}
+  {% endif %}
+{% endif %}

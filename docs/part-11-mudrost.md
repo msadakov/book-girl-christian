@@ -502,10 +502,3 @@ title: "Часть 11. Расти в мудрости"
 
 **🙏 Наша молитва:**
 «Господь Иисус, спасибо за нашу семью. Научи нас любить Тебя и людей каждый день. Храни нашу дочку. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-10-tserkov/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-12-granitsy/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 10. Церковь | Часть 12. Близость и границы</em></p>
-</div>

@@ -324,10 +324,3 @@ title: "Часть 9. Быт и осторожность"
 
 **🙏 Наша молитва:**
 «Господь, научи меня отдыхать в тишине и возвращаться с любовью. Аминь.»
-
----
-
-<div class="part-nav" markdown="0">
-<p align="center"><a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-08-bezopasnost/">&lt;- Предыдущая часть</a> | <a href="https://msadakov.github.io/book-for-5-year-old-daughter/part-10-tserkov/">Следующая часть -&gt;</a></p>
-<p align="center"><em>Часть 8. Безопасность и люди | Часть 10. Церковь</em></p>
-</div>
