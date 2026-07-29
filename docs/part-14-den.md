@@ -343,5 +343,5 @@ title: "Часть 14. Каждый день"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-13-dom.md) | [Следующая часть ->](part-15-vmeste.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-13-dom/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-15-vmeste/)
 _Часть 13. Доброта дома | Часть 15. Вместе дальше_

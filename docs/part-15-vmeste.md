@@ -347,5 +347,5 @@ _Конец. С любовью ко Христу._
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-14-den.md) | [Следующая часть ->](part-16-zabota.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-14-den/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-16-zabota/)
 _Часть 14. Каждый день | Часть 16. Маленькая забота_

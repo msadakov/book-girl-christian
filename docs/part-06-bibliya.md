@@ -313,5 +313,5 @@ title: "Часть 6. Библейские истории"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-05-serdtse.md) | [Следующая часть ->](part-07-privychki.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-05-serdtse/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-07-privychki/)
 _Часть 5. Экраны и сердце | Часть 7. Привычки сердца_

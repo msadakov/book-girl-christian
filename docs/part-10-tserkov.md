@@ -217,5 +217,5 @@ title: "Часть 10. Церковь"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-09-byt.md) | [Следующая часть ->](part-11-mudrost.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-09-byt/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-11-mudrost/)
 _Часть 9. Быт и осторожность | Часть 11. Расти в мудрости_

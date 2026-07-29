@@ -329,5 +329,5 @@ title: "Часть 9. Быт и осторожность"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-08-bezopasnost.md) | [Следующая часть ->](part-10-tserkov.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-08-bezopasnost/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-10-tserkov/)
 _Часть 8. Безопасность и люди | Часть 10. Церковь_

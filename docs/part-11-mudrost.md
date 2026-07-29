@@ -507,5 +507,5 @@ title: "Часть 11. Расти в мудрости"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-10-tserkov.md) | [Следующая часть ->](part-12-granitsy.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-10-tserkov/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-12-granitsy/)
 _Часть 10. Церковь | Часть 12. Близость и границы_

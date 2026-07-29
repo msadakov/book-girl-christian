@@ -350,5 +350,5 @@ title: "Часть 1. Вера и Бог"
 
 **Навигация по частям:**
 
-[Следующая часть ->](part-02-telo.md)
+[Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-02-telo/)
 _Часть 2. Тело и красота_

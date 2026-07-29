@@ -375,5 +375,5 @@ title: "Часть 8. Безопасность и люди"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-07-privychki.md) | [Следующая часть ->](part-09-byt.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-07-privychki/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-09-byt/)
 _Часть 7. Привычки сердца | Часть 9. Быт и осторожность_

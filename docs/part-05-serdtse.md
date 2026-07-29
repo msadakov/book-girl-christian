@@ -291,5 +291,5 @@ title: "Часть 5. Экраны и сердце"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-04-druzya.md) | [Следующая часть ->](part-06-bibliya.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-04-druzya/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-06-bibliya/)
 _Часть 4. Друзья и школа | Часть 6. Библейские истории_

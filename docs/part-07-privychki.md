@@ -267,5 +267,5 @@ title: "Часть 7. Привычки сердца"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-06-bibliya.md) | [Следующая часть ->](part-08-bezopasnost.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-06-bibliya/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-08-bezopasnost/)
 _Часть 6. Библейские истории | Часть 8. Безопасность и люди_

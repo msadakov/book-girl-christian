@@ -343,5 +343,5 @@ title: "Часть 12. Близость и границы"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-11-mudrost.md) | [Следующая часть ->](part-13-dom.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-11-mudrost/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-13-dom/)
 _Часть 11. Расти в мудрости | Часть 13. Доброта дома_

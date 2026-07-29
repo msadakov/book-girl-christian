@@ -306,5 +306,5 @@ title: "Часть 4. Друзья и школа"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-03-semya.md) | [Следующая часть ->](part-05-serdtse.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-03-semya/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-05-serdtse/)
 _Часть 3. Семья и дом | Часть 5. Экраны и сердце_

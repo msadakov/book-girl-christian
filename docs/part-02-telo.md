@@ -274,5 +274,5 @@ title: "Часть 2. Тело и красота"
 
 **Навигация по частям:**
 
-[<- Предыдущая часть](part-01-vera.md) | [Следующая часть ->](part-03-semya.md)
+[<- Предыдущая часть](https://msadakov.github.io/book-for-5-year-old-daughter/part-01-vera/) | [Следующая часть ->](https://msadakov.github.io/book-for-5-year-old-daughter/part-03-semya/)
 _Часть 1. Вера и Бог | Часть 3. Семья и дом_
