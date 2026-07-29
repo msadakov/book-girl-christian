@@ -65,7 +65,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - toc:
-      permalink: true
+      permalink: false
       toc_depth: 2
       title: Главы
 
