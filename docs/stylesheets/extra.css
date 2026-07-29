@@ -173,6 +173,11 @@ p.part-nav {
   margin-top: 1.25rem;
 }
 
+p.parts-index {
+  max-width: none;
+  margin: 0.2rem 0;
+}
+
 /* Prev / next between parts */
 .md-footer__link {
   padding-top: 1.25rem;

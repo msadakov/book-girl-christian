@@ -6,9 +6,9 @@
 {% include "partials/feedback.html" %}
 {% include "partials/comments.html" %}
 
-{#- Prev/next inside article so Instant View keeps the links at the bottom -#}
+{#- Bottom navigation inside article for Instant View -#}
 {% set src = page.file.src_uri if page and page.file else "" %}
-{% if src.startswith("part-") and (page.previous_page or page.next_page) %}
+{% if src.startswith("part-") %}
   {% set prev = page.previous_page if page.previous_page and page.previous_page.file.src_uri.startswith("part-") else none %}
   {% set next = page.next_page if page.next_page and page.next_page.file.src_uri.startswith("part-") else none %}
   {% if prev or next %}
@@ -24,4 +24,11 @@
 <p class="part-nav" align="center"><em>{{ prev.title }}</em></p>
 {% endif %}
   {% endif %}
+
+<hr>
+{% for item in nav %}
+  {% if item.is_page %}
+<p class="parts-index"><a href="{{ item.canonical_url }}">{{ item.title }}</a></p>
+  {% endif %}
+{% endfor %}
 {% endif %}
