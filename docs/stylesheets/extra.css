@@ -281,7 +281,110 @@ p.parts-index {
   }
 }
 
+/* ——— Continue reading bar ——— */
+
+.fb-continue {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 5;
+  padding: 0.65rem 0.85rem calc(0.65rem + env(safe-area-inset-bottom, 0px));
+  background: var(--md-default-bg-color--light);
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  box-shadow: 0 -0.35rem 1.25rem rgba(0, 0, 0, 0.12);
+  transform: translateY(0);
+  transition: transform 0.28s ease, opacity 0.28s ease;
+}
+
+.fb-continue[hidden] {
+  display: none !important;
+}
+
+.fb-continue__inner {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem 1rem;
+  max-width: 64rem;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.fb-continue__question {
+  margin: 0;
+  font-family: var(--md-text-font-family), serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color);
+  white-space: nowrap;
+}
+
+.fb-continue__link {
+  flex: 1 1 12rem;
+  min-width: 0;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  color: var(--md-typeset-a-color);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.fb-continue__link:hover,
+.fb-continue__link:focus-visible {
+  color: var(--md-accent-fg-color);
+}
+
+.fb-continue__close {
+  appearance: none;
+  flex: 0 0 auto;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0.35rem;
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  cursor: pointer;
+  position: relative;
+}
+
+.fb-continue__close::before {
+  content: "×";
+  font-size: 1.55rem;
+  line-height: 1;
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fb-continue__close:hover,
+.fb-continue__close:focus-visible {
+  background: var(--md-default-bg-color--lighter);
+  color: var(--md-default-fg-color);
+}
+
+html.fb-continue-visible .md-top {
+  bottom: 5.5rem;
+}
+
+html.fb-continue-visible body {
+  padding-bottom: 5.25rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fb-continue {
+    transition: none;
+  }
+}
+
 @media print {
+  .fb-continue {
+    display: none !important;
+  }
+
   .md-header,
   .md-sidebar,
   .md-footer,

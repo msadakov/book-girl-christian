@@ -59,6 +59,9 @@ nav:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/continue-reading.js
+
 markdown_extensions:
   - meta
   - admonition

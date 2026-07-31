@@ -23,6 +23,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run continue-reading tests
+        run: npm test
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -48,6 +56,12 @@ jobs:
 
       - name: Build
         run: mkdocs build
+
+      - name: Verify continue-reading assets in build
+        run: |
+          test -f site/javascripts/continue-reading.js
+          grep -q 'continue-reading.js' site/index.html
+          grep -q 'fb-continue' site/stylesheets/extra.css
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
