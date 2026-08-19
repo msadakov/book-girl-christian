@@ -381,6 +381,7 @@ describe("part page detection", () => {
     assert.equal(isPartPage("/part-01-vera/"), true);
     assert.equal(isPartPage("/father_book/part-16-zabota/"), true);
     assert.equal(isPartPage("/father_book/part-17-rastem/"), true);
+    assert.equal(isPartPage("/father_book/part-18-dengi/"), true);
     assert.equal(isPartPage("/"), false);
     assert.equal(isPartPage("/index.html"), false);
   });
