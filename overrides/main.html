@@ -13,7 +13,7 @@
   {% set url = page.canonical_url if page and page.canonical_url else config.site_url %}
   {% set image = config.site_url ~ "illustrations/og-preview.jpg" %}
   {% set cover = config.site_url ~ "illustrations/cover.webp" %}
-  {% set author_name = "Папа" %}
+  {% set author_name = "Родители" %}
   {% set lang = "ru" %}
   {% set published = "2026-07-28T00:00:00+03:00" %}
   {% set is_home = page.is_homepage if page else false %}
@@ -26,7 +26,7 @@
 
   <meta name="description" content="{{ description }}">
   <meta name="author" content="{{ author_name }}">
-  <meta name="keywords" content="детская книга, папа и дочка, христианское воспитание, вечернее чтение, Библия для детей">
+  <meta name="keywords" content="детская книга, родители и дочка, христианское воспитание, вечернее чтение, Библия для детей">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{{ url }}">
 
@@ -91,7 +91,7 @@
         "@type": "Person",
         "@id": {{ (config.site_url ~ "#author") | tojson }},
         "name": {{ author_name | tojson }},
-        "description": "Автор книги для чтения с дочкой"
+        "description": "Авторы книги для чтения с дочкой"
       },
       {
         "@type": "Book",
@@ -203,7 +203,7 @@
   {% endif %}
   {% set url = page.canonical_url if page and page.canonical_url else config.site_url %}
   {% set image = config.site_url ~ "illustrations/og-preview.jpg" %}
-  {% set author_name = "Папа" %}
+  {% set author_name = "Родители" %}
   {% set is_home = page.is_homepage if page else false %}
   {% set src = page.file.src_uri if page and page.file else "" %}
   {% if src.startswith("part-") %}
