@@ -8,6 +8,8 @@ title: "Моя чудесная девочка: Книга родителей о
 
 *Книга разделена на части — так удобнее читать с телефона: загружается только нужный раздел.*
 
+*Читать онлайн: [msadakov.github.io/book-girl-christian](https://msadakov.github.io/book-girl-christian/)*
+
 ![Вступление](illustrations/cover.webp){ loading=lazy }
 
 ## Как читать
